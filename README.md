@@ -238,8 +238,8 @@
     <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2876).pdf" target="_blank" style="text-decoration:none"> <span style="font-size:16px; color:gray"> Download </span> </a>
 </p>
 </br>
-<p>Computer Science Distilled</p>
-<p>Wladston Ferreira Filho</p>
+<p>How the Computer went to School</p>
+<p> Denise Beale </p>
 <p>
     <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2877).pdf" target="_blank" style="text-decoration:none"> <span style="font-size:16px; color:gray"> Download </span> </a>
 </p>
