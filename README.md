@@ -4,92 +4,88 @@
 
                              
 
- <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(1).pdf" style="text-decoration:none;">CoqIOA: A Formalization of IO Automata in the
-Coq Proof Assistant</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(1).pdf" style="text-decoration:none;">Essentials of Geographic Information Systems</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(2).pdf" style="text-decoration:none;">An Offline Foundation for
-Online Accountable Pseudonyms</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(2).pdf" style="text-decoration:none;">Computer Networks: A Systems
+Approach</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(3).pdf" style="text-decoration:none;">A Programming Language
-Based on Classical Logic</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(4).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(5).pdf" style="text-decoration:none;">Mobile Computing with the Rover Toolkit</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(6).pdf" style="text-decoration:none;">Improving Network Connection Locality on Multicore Systems</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(7).pdf" style="text-decoration:none;">Asynchronous intrusion recovery
-for interconnected web services</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(3).pdf" style="text-decoration:none;">The Discipline of Organizing: 4th Professional Edition</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(4).pdf" style="text-decoration:none;">Information Systems:
+A Manager's Guide to Harnessing Technology</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(5).pdf" style="text-decoration:none;">Introduction to the Modeling and Analysis of Complex Systems</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(6).pdf" style="text-decoration:none;">Pharo By Example 5</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(7).pdf" style="text-decoration:none;">Introduction to Autonomous Robots</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(8).pdf" style="text-decoration:none;"> Performance Optimization of the VDFS Verified
-File System </a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(9).pdf" style="text-decoration:none;">Algorand: Scaling Byzantine Agreements
-for Cryptocurrencies</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(8).pdf" style="text-decoration:none;"> AUTOMATE THE BORING STUFF WITH PYTHON </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(9).pdf" style="text-decoration:none;">Signal Computing:
+Digital Signals in the Software Domain</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(10).pdf" style="text-decoration:none;">Alpaca: Extensible Authorization for Distributed Services </a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(11).pdf" style="text-decoration:none;">A Concurrency-Optimal Binary Search Tree</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(12).pdf" style="text-decoration:none;">Alpenhorn: Bootstrapping Secure Communication without Leaking Metadata</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(13).pdf" style="text-decoration:none;">Amber: Decoupling User Data from Web Applications</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(10).pdf" style="text-decoration:none;">Computer Networking : Principles,
+Protocols and Practice </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(11).pdf" style="text-decoration:none;">Agent-Based Evolutionary Game Dynamics</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(12).pdf" style="text-decoration:none;">Database Design</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(13).pdf" style="text-decoration:none;">Spatial Thinking in Planning Practice: An
+Introduction to GIS</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(14).pdf" style="text-decoration:none;">Quboid: A Workstation for Safer Web Interaction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(14).pdf" style="text-decoration:none;">Deleting Dystopia: Re-Asserting Human
+Priorities in the Age of Surveillance Capitalism</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(15).pdf" style="text-decoration:none;">Argosy: Verifying Layered Storage Systems with
-Recovery Refinement</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(15).pdf" style="text-decoration:none;">Operating Systems and Middleware:
+Supporting Controlled Interaction</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(16).pdf" style="text-decoration:none;">LRC: Dependency-Aware Cache Management
-for Data Analytics Clusters</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(16).pdf" style="text-decoration:none;">Deep into Pharo</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(17).pdf" style="text-decoration:none;">Make Least Privilege a Right (Not a Privilege)</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(17).pdf" style="text-decoration:none;">An Introduction to Computer Networks</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(18).pdf" style="text-decoration:none;">Labels and Event Processes
-in the Asbestos Operating System</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(18).pdf" style="text-decoration:none;">Introduction to Programming Using Java</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(19).pdf" style="text-decoration:none;">Privacy-Preserving Browser-Side Scripting With BFlow</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(19).pdf" style="text-decoration:none;">First Semester in Numerical Analysis with Python</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(20).pdf" style="text-decoration:none;">The benefits and costs of writing a
-POSIX kernel in a high-level language</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(20).pdf" style="text-decoration:none;">Graphic Design and Print Production Fundamentals</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(21).pdf" style="text-decoration:none;">The Benefits and Costs of Writing a POSIX Kernel in a High-Level Language</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(22).pdf" style="text-decoration:none;">LLVM: A Compilation Framework for
-Lifelong Program Analysis and Transformation</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(23).pdf" style="text-decoration:none;">The Benefits and Costs of Writing a POSIX
-Kernel in a High-Level Language [Cody Cutler]</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(21).pdf" style="text-decoration:none;">A Tale of Two Systems</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(22).pdf" style="text-decoration:none;">Think Complexity</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(23).pdf" style="text-decoration:none;">Information Systems for Business and Beyond</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(24).pdf" style="text-decoration:none;">Separating Web Applications from User Data Storage with BSTORE</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(24).pdf" style="text-decoration:none;">An Introduction to
+Matlab and Mathcad</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(25).pdf" style="text-decoration:none;">A Methodical Study of Web Crawler</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(26).pdf" style="text-decoration:none;">Certifying a File System Using
-Crash Hoare Logic: Correctness in the Presence of Crashes</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(27).pdf" style="text-decoration:none;">A Differential Approach to
-Undefined Behavior Detection</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(25).pdf" style="text-decoration:none;">Java, Java, Java
+Object-Oriented Problem Solving</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(26).pdf" style="text-decoration:none;">Blueprints: Creating, Describing, and Implementing Designs for Larger-scale Software Projects</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(27).pdf" style="text-decoration:none;">Introduction to Computer Graphics</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(28).pdf" style="text-decoration:none;">Reducing Pause Times with Clustered Collection</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(28).pdf" style="text-decoration:none;">Introduction To MIPS Assembly Language
+Programming</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(29).pdf" style="text-decoration:none;">Reducing Pause Times With Clustered Collection [Cody Cutler] </a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(29).pdf" style="text-decoration:none;">Delftse Foundations of Computation </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(30).pdf" style="text-decoration:none;">Certifying Program Execution with Secure Processors</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(30).pdf" style="text-decoration:none;">Defend Dissent: Digital Suppression and Cryptographic Defense of Social Movements</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(31).pdf" style="text-decoration:none;">Providing a Shared File System in the Hare
-POSIX Multikernel</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(32).pdf" style="text-decoration:none;">Linux kernel vulnerabilities:
-State-of-the-art defenses and open problems</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(31).pdf" style="text-decoration:none;">How To Code in Python 3</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(32).pdf" style="text-decoration:none;">A First Course in Electrical
+and Computer Engineering</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(33).pdf" style="text-decoration:none;">Robust and Efficient Data Management for a Distributed Hash Table</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(33).pdf" style="text-decoration:none;">Digital Circuit Projects: An Overview of Digital Circuits Through Implementing Integrated Circuits</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(34).pdf" style="text-decoration:none;">Choosing Internet Paths with High Bulk Transfer Capacity</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(34).pdf" style="text-decoration:none;">The Missing Link: 
+An Introduction to Web Development and Programming</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(35).pdf" style="text-decoration:none;">Melody: A Distributed Music-Sharing System</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(35).pdf" style="text-decoration:none;">Making Games
+with Python and Pygame</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(36).pdf" style="text-decoration:none;">A Keyword-Set Search System for Peer-to-Peer
-Networks</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(36).pdf" style="text-decoration:none;">The Civilization
+of Illiteracy</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(37).pdf" style="text-decoration:none;">Herodotus: A Peer-to-PeerWeb Archival System</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(38).pdf" style="text-decoration:none;">A case study of server selection</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(39).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(40).pdf" style="text-decoration:none;">Programming language optimizations for modular router configurations</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(37).pdf" style="text-decoration:none;">The Joy of Cryptography</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(38).pdf" style="text-decoration:none;">Think DSP: Digital Signal Processing in Python</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(39).pdf" style="text-decoration:none;">A Byte of Python</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(40).pdf" style="text-decoration:none;">Relational Databases
+and Microsoft Access</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(41).pdf" style="text-decoration:none;">Fast Bug Finding in Lock-Free Data Structures with
 CB-DPOR</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(42).pdf" style="text-decoration:none;">Finding Linearization Violations in Lock-Free
