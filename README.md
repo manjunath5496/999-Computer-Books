@@ -225,4 +225,41 @@ Internet</a></li>
   
 <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(100).pdf" style="text-decoration:none;">Business Information Systems: Design an App for That</a></li>  
   
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(101).pdf" style="text-decoration:none;">Computer Skills for Theology and Ministry</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(102).pdf" style="text-decoration:none;">Debian GNU/Linux: Guide to Installation and Usage</a></li> 
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(103).pdf" style="text-decoration:none;">The Complete FreeBSD </a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(104).pdf" style="text-decoration:none;">A Field Guide to
+Genetic Programming</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(105).pdf" style="text-decoration:none;">55 Ways to Have Fun With Google</a></li> 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(106).pdf" style="text-decoration:none;">Managing Reputation in Cyberspace </a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(107).pdf" style="text-decoration:none;">Mystic Microsoft: A Journey of Transformation in the Halls of High Technology</a></li> 
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(108).pdf" style="text-decoration:none;">Microsoft Excel 2003 Tips'N Tricks</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(109).pdf" style="text-decoration:none;">The Media in the Network Society</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(110).pdf" style="text-decoration:none;">Version Control with Subversion </a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(111).pdf" style="text-decoration:none;">Vim Recipes: A cookbook for the Vim text editor</a></li> 
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(112).pdf" style="text-decoration:none;">Wireless Networking in
+the Developing World</a></li>   
+  
+  
+  
+  
+  
+  
+  
+  
+  
  </ul>
