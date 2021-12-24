@@ -153,7 +153,7 @@ How to Think Like a Computer Scientist</a></li>
   
    <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(69).pdf" style="text-decoration:none;">Foundations of Computation</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(70).pdf" style="text-decoration:none;">Open Data Structures</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(70).pdf" style="text-decoration:none;">Open Data Structures: an introduction</a></li> 
   
  
  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(71).pdf" style="text-decoration:none;">Hacker Crackdown: 
