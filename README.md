@@ -254,7 +254,29 @@ Genetic Programming</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(112).pdf" style="text-decoration:none;">Wireless Networking in
 the Developing World</a></li>   
   
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(113).pdf" style="text-decoration:none;">How to Design Programs:
+An Introduction to Computing and Programming</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(114).pdf" style="text-decoration:none;">Principles of Computer System Design: 
+An Introduction</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(115).pdf" style="text-decoration:none;">LOC Workshop on Electronic Texts</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(116).pdf" style="text-decoration:none;">The Real Cyberpunk
+Fakebook</a></li>   
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(117).pdf" style="text-decoration:none;">Children's Internet
+Protection Act (CIPA) Ruling</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(118).pdf" style="text-decoration:none;">Radio Shack TRS-80 Expansion
+Interface: Operator's Manual </a></li>  
+   
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(119).pdf" style="text-decoration:none;">Preliminary Specifications: Programmed Data Processor Model Three (PDP-3)</a></li> 
   
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(120).pdf" style="text-decoration:none;">Digital PDP15 Price List</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(121).pdf" style="text-decoration:none;">Structure and Interpretation
+of Computer Programs</a></li>   
+   
   
   
   
