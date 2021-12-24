@@ -278,7 +278,47 @@ Interface: Operator's Manual </a></li>
 of Computer Programs</a></li>   
    
   
-  
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(122).pdf" style="text-decoration:none;">College Algebra </a></li>  
+     
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(123).pdf" style="text-decoration:none;">Linear Algebra I</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(124).pdf" style="text-decoration:none;">Demystifying Internet
+of Things Security</a></li>   
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(125).pdf" style="text-decoration:none;">Introduction
+to Scientific Programming with Python</a></li>   
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(126).pdf" style="text-decoration:none;">A Practical Introduction to
+Python Programming</a></li> 
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(127).pdf" style="text-decoration:none;">Introduction to Modern Algebra</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(128).pdf" style="text-decoration:none;">Applied Statistics with R</a></li>   
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(129).pdf" style="text-decoration:none;">Algebra: 
+A Computational Introduction</a></li>   
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(130).pdf" style="text-decoration:none;">Elementary Algebra </a></li>    
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(131).pdf" style="text-decoration:none;">How to Think Like a Computer
+Scientist: Learning with Python 3 (Documentation)</a></li>   
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(132).pdf" style="text-decoration:none;">The Little Book of Semaphores</a></li>   
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(133).pdf" style="text-decoration:none;">Notes on Theory of Distributed Systems</a></li>     
+   
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(134).pdf" style="text-decoration:none;">Notes on Randomized Algorithms</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(135).pdf" style="text-decoration:none;">Notes on Data Structures and Programming
+Techniques</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(136).pdf" style="text-decoration:none;">OpenWorkbook of Cryptology:
+A project-based introduction to crypto in Python</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(137).pdf" style="text-decoration:none;">Think OS: 
+A Brief Introduction to Operating Systems</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(138).pdf" style="text-decoration:none;">Open Data Structures (in pseudocode)</a></li>
+
   
   
   
