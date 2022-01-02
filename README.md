@@ -582,8 +582,7 @@ Data Mining</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(2).pdf" style="text-decoration:none;">Algorithms</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(3).pdf" style="text-decoration:none;">Introduction to Web Application development</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(4).pdf" style="text-decoration:none;">Information Systems:
-A Manager's Guide to Harnessing Technology</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(4).pdf" style="text-decoration:none;">Apache Jakarta Commons</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(5).pdf" style="text-decoration:none;">Precalculus: An Investigation of Functions</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(6).pdf" style="text-decoration:none;">GNU/Linux Advanced Administration</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(7).pdf" style="text-decoration:none;">Scipy Lecture Notes: One document to learn numerics, science, and data with Python</a></li>
@@ -617,8 +616,8 @@ Neural Networks</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(20).pdf" style="text-decoration:none;">How To Accelerate Your
 Internet: A practical guide to Bandwidth Management and Optimisation using Open Source Software</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(21).pdf" style="text-decoration:none;">An Introduction to
-Matlab and Mathcad</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(21).pdf" style="text-decoration:none;">The Future of the Internet
+and How to Stop It</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(22).pdf" style="text-decoration:none;">Linear Algebra</a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(23).pdf" style="text-decoration:none;">Don't Just Roll The Dice</a></li> 
  
@@ -667,7 +666,8 @@ Genetic Programming</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(48).pdf" style="text-decoration:none;">GTK+ / Gnome Application
 Development</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(49).pdf" style="text-decoration:none;">MIPS Assembly Language Programming using QtSpim</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(49).pdf" style="text-decoration:none;">REMIX: Making Art and Commerce Thrive
+in the Hybrid Economy</a></li>
                               
 <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(50).pdf" style="text-decoration:none;">Vector Calculus</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(51).pdf" style="text-decoration:none;">Legal Aspects of the Information Society</a></li>
