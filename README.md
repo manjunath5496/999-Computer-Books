@@ -850,6 +850,250 @@ Kernel</a></li>
    
 <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(127).pdf" style="text-decoration:none;">Synchronous PPP and Cisco HDLC
 Programming Guide</a></li>  
-   
   
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(1).pdf" style="text-decoration:none;">VR Technologies in Cultural Heritage: First International Conference, VRTCH 2018 Brasov, Romania, May 29–30, 2018 Revised Selected Papers</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(2).pdf" style="text-decoration:none;">Haptics: Science,
+Technology, Applications: 12th International Conference, EuroHaptics 2020 Leiden, The Netherlands, September 6–9, 2020 Proceedings</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(3).pdf" style="text-decoration:none;">Smart Technologies
+for Precision Assembly: 9th IFIP WG 5.5 International Precision Assembly Seminar, IPAS 2020 Virtual Event, December 14–15, 2020 Revised Selected Papers</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(4).pdf" style="text-decoration:none;">Computer Aided
+Verification: 31st International Conference, CAV 2019 New York City, NY, USA, July 15–18, 2019 Proceedings, Part I</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(5).pdf" style="text-decoration:none;">Autonomous Control
+for a Reliable Internet of Services: Methods, Models, Approaches, Techniques, Algorithms, and Tools</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(6).pdf" style="text-decoration:none;">The Elements of
+Big Data Value: Foundations of the Research and Innovation Ecosystem</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(7).pdf" style="text-decoration:none;">Tools and Algorithms
+for the Construction and Analysis of Systems: 25th International Conference, TACAS 2019 Held as Part of the European Joint Conferences on Theory and Practice of Software, ETAPS 2019 Prague, Czech Republic, April 6–11, 2019 Proceedings, Part I</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(8).pdf" style="text-decoration:none;"> Programming
+Languages and Systems: 28th European Symposium on Programming, ESOP 2019 Held as Part of the European Joint Conferences on Theory and Practice of Software, ETAPS 2019
+Prague, Czech Republic, April 6–11, 2019 Proceedings </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(9).pdf" style="text-decoration:none;">Computer Aided
+Verification: 32nd International Conference, CAV 2020 Los Angeles, CA, USA, July 21–24, 2020 Proceedings, Part II</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(10).pdf" style="text-decoration:none;">Semantic Systems - The Power of AI
+and Knowledge Graphs: 15th International Conference, SEMANTiCS 2019 Karlsruhe, Germany, September 9–12, 2019 Proceedings </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(11).pdf" style="text-decoration:none;">Intelligent
+Human Computer Interaction: 9th International Conference, IHCI 2017 Evry, France, December 11–13, 2017 Proceedings</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(12).pdf" style="text-decoration:none;">Python for Astronomers: An Introduction to Scientific Computing</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(13).pdf" style="text-decoration:none;">Android Application Development for the Intel Platform</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(14).pdf" style="text-decoration:none;">How AI Impacts
+Urban Living and Public Health: 17th International Conference, ICOST 2019 New York City, NY, USA, October 14–16, 2019 Proceedings</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(15).pdf" style="text-decoration:none;">Software for Exascale
+Computing - SPPEXA 2016-2019</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(16).pdf" style="text-decoration:none;">Agile Processes
+in Software Engineering and Extreme Programming: 18th International Conference, XP 2017 Cologne, Germany, May 22–26, 2017 Proceedings</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(17).pdf" style="text-decoration:none;">Computer Aided
+Verification: 30th International Conference, CAV 2018 Held as Part of the Federated Logic Conference, FloC 2018 Oxford, UK, July 14–17, 2018 Proceedings, Part II</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(18).pdf" style="text-decoration:none;">Computer Aided
+Verification: 31st International Conference, CAV 2019 New York City, NY, USA, July 15–18, 2019 Proceedings, Part II</a></li> 
+
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(19).pdf" style="text-decoration:none;">Tools and Algorithms
+for the Construction and Analysis of Systems: 24th International Conference, TACAS 2018 Held as Part of the European Joint Conferences on Theory and Practice of Software, ETAPS 2018 Thessaloniki, Greece, April 14–20, 2018 Proceedings, Part II</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(20).pdf" style="text-decoration:none;">Brain-Inspired
+Computing: 4th International Workshop, BrainComp 2019 Cetraro, Italy, July 15–19, 2019 Revised Selected Papers</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(21).pdf" style="text-decoration:none;">The Once-Only Principle: 
+The TOOP Project</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(22).pdf" style="text-decoration:none;">Tools and Algorithms
+for the Construction and Analysis of Systems: 24th International Conference, TACAS 2018 Held as Part of the European Joint Conferences on Theory and Practice of Software, ETAPS 2018 Thessaloniki, Greece, April 14–20, 2018 Proceedings, Part I</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(23).pdf" style="text-decoration:none;">Technology, Design
+and the Arts — Opportunities and Challenges</a></li> 
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(24).pdf" style="text-decoration:none;">Handbook of Vascular
+Biometrics</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(25).pdf" style="text-decoration:none;">Internet of Things
+Information Processing in an Increasingly Connected World: First IFIP International Cross-Domain Conference, IFIPIoT 2018 Held at the 24th IFIP World Computer Congress, WCC 2018 Poznan, Poland, September 18–19, 2018 Revised Selected Papers</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(26).pdf" style="text-decoration:none;">Foundations
+of Software Science and Computation Structures:  21st International Conference, FOSSACS 2018 Held as Part of the European Joint Conferences on Theory and Practice of Software, ETAPS 2018 Thessaloniki, Greece, April 14–20, 2018 Proceedings</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(27).pdf" style="text-decoration:none;">Symbiotic Interaction: 5th International Workshop, Symbiotic 2016 Padua, Italy, September 29–30, 2016 Revised Selected Papers</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(28).pdf" style="text-decoration:none;">Model-Based Engineering
+of Collaborative Embedded Systems</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(29).pdf" style="text-decoration:none;">Intel Galileo and Intel Galileo Gen 2 </a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(30).pdf" style="text-decoration:none;">Computer Vision Metrics: 
+Survey, Taxonomy, and Analysis</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(31).pdf" style="text-decoration:none;">Cyber Security: 17th China Annual Conference, CNCERT 2020 Beijing, China, August 12, 2020 Revised Selected Papers</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(32).pdf" style="text-decoration:none;">Natural Computing
+and Beyond</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(33).pdf" style="text-decoration:none;">Bisociative
+Knowledge Discovery: An Introduction to Concept, Algorithms, Tools, and Applications </a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(34).pdf" style="text-decoration:none;">Data Parallel C++: Mastering DPC++
+for Programming of Heterogeneous Systems using C++ and SYCL</a></li> 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(35).pdf" style="text-decoration:none;">Agile Processes
+in Software Engineering and Extreme Programming: 20th International Conference, XP 2019 Montréal, QC, Canada, May 21–25, 2019 Proceedings</a></li> 
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(36).pdf" style="text-decoration:none;">Foundations
+of Software Science and Computation Structures: 22nd International Conference, FOSSACS 2019 Held as Part of the European Joint Conferences on Theory and Practice of Software, ETAPS 2019 Prague, Czech Republic, April 6–11, 2019 Proceedings</a></li> 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(37).pdf" style="text-decoration:none;">Computer and
+Information Sciences: 31st International Symposium, ISCIS 2016 Kraków, Poland, October 27–28, 2016 Proceedings</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(38).pdf" style="text-decoration:none;">Real-time Linked Dataspaces: Enabling Data Ecosystems for Intelligent Systems</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(39).pdf" style="text-decoration:none;">Co-governed Sovereignty Network</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(40).pdf" style="text-decoration:none;">Reversible Computation:
+Extending Horizons of Computing, Selected Results of the COST Action IC1405</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(41).pdf" style="text-decoration:none;">iOS Developer Notes for Professionals</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(42).pdf" style="text-decoration:none;">The Future Internet - Future Internet Assembly 2012: From Promises to Reality</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(43).pdf" style="text-decoration:none;">Tools and Algorithms
+for the Construction and Analysis of Systems: 25th International Conference, TACAS 2019 Held as Part of the European Joint Conferences on Theory and Practice of Software, ETAPS 2019 Prague, Czech Republic, April 6–11, 2019 Proceedings, Part II</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(44).pdf" style="text-decoration:none;">Agile Processes
+in Software Engineering and Extreme Programming: 19th International Conference, XP 2018 Porto, Portugal, May 21–25, 2018 Proceedings</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(45).pdf" style="text-decoration:none;">Fundamental Approaches
+to Software Engineering: 23rd International Conference, FASE 2020 Held as Part of the European Joint Conferences on Theory and Practice of Software, ETAPS 2020
+Dublin, Ireland, April 25–30, 2020 Proceedings</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(46).pdf" style="text-decoration:none;">Android on x86: An Introduction to Optimizing for Intel Architecture</a></li> 
+                             
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(47).pdf" style="text-decoration:none;">The Future Internet - Future Internet Assembly 2011: Achievements and Technological Promises</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(48).pdf" style="text-decoration:none;">Multiple-Aspect Analysis
+of Semantic Trajectories: First International Workshop, MASTER 2019 Held in Conjunction with ECML-PKDD 2019 Würzburg, Germany, September 16, 2019 Proceedings</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(49).pdf" style="text-decoration:none;">Managed Software Evolution</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(50).pdf" style="text-decoration:none;">Tools and Algorithms
+for the Construction and Analysis of Systems: 26th International Conference, TACAS 2020 Held as Part of the European Joint Conferences on Theory and Practice of Software, ETAPS 2020 Dublin, Ireland, April 25–30, 2020 Proceedings, Part I</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(51).pdf" style="text-decoration:none;">Principles of Security
+and Trust: 7th International Conference, POST 2018 Held as Part of the European Joint Conferences on Theory and Practice of Software, ETAPS 2018 Thessaloniki, Greece, April 14–20, 2018 Proceedings</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(52).pdf" style="text-decoration:none;">XcalableMP PGAS
+Programming Language: From Programming Model to Applications</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(53).pdf" style="text-decoration:none;">Language Technologies
+for the Challenges of the Digital Age: 27th International Conference, GSCL 2017 Berlin, Germany, September 13–14, 2017 Proceedings</a></li>
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(54).pdf" style="text-decoration:none;">Entity-Oriented Search </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(55).pdf" style="text-decoration:none;">Programming
+Languages and Systems: 29th European Symposium on Programming, ESOP 2020 Held as Part of the European Joint Conferences on Theory and Practice of Software, ETAPS 2020
+Dublin, Ireland, April 25–30, 2020 Proceedings</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(56).pdf" style="text-decoration:none;">Debian GNU/Linux : Guide to Installation and Usage </a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(57).pdf" style="text-decoration:none;">Android Notes for Professionals</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(58).pdf" style="text-decoration:none;">Graph Structures
+for Knowledge Representation and Reasoning: 6th International Workshop, GKR 2020 Virtual Event, September 5, 2020 Revised Selected Papers</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(59).pdf" style="text-decoration:none;">Knowledge Graphs and
+Big Data Processing</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(60).pdf" style="text-decoration:none;">Contextual
+Process Digitalization </a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(61).pdf" style="text-decoration:none;">TouchDevelop: Programming on the Go</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(62).pdf" style="text-decoration:none;">Supercomputing Frontiers: 
+6th Asian Conference, SCFA 2020 Singapore, February 24–27, 2020 Proceedings</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(63).pdf" style="text-decoration:none;">Programming
+Languages and Systems: 30th European Symposium on Programming, ESOP 2021 Held as Part of the European Joint Conferences on Theory and Practice of Software, ETAPS 2021
+Luxembourg City, Luxembourg, March 27 – April 1, 2021 Proceedings</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(64).pdf" style="text-decoration:none;">Tools and Algorithms
+for the Construction and Analysis of Systems: 26th International Conference, TACAS 2020 Held as Part of the European Joint Conferences on Theory and Practice of Software, ETAPS 2020 Dublin, Ireland, April 25–30, 2020 Proceedings, Part II</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(65).pdf" style="text-decoration:none;">The InfoSec Handbook: 
+An Introduction to Information Security </a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(66).pdf" style="text-decoration:none;">Introduction to
+Programming using Fortran 95/2003/2008</a></li> 
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(67).pdf" style="text-decoration:none;">Java with BlueJ</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(68).pdf" style="text-decoration:none;">Think Java: 
+How to Think Like a Computer Scientist</a></li> 
+ 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(69).pdf" style="text-decoration:none;">Foundations of Computation</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(70).pdf" style="text-decoration:none;">Open Data Structures: an introduction</a></li> 
+  
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(71).pdf" style="text-decoration:none;">Hacker Crackdown: 
+Law and Disorder on the Electronic Frontier</a></li>
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(72).pdf" style="text-decoration:none;">Combinatorics: 
+an upper-level introductory course in enumeration, graph theory, and design theory</a></li> 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(73).pdf" style="text-decoration:none;">Fast Fourier Transforms</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(74).pdf" style="text-decoration:none;">Big Dummy's Guide to the
+Internet</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(75).pdf" style="text-decoration:none;">Physical Modeling in MATLAB</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(76).pdf" style="text-decoration:none;">A Fortran Program for Elastic Scattering
+Analyses with the Nuclear Optical Model</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(77).pdf" style="text-decoration:none;">The Survivors of the Chancellor</a></li> 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(78).pdf" style="text-decoration:none;">Producing Open Source Software: 
+How to Run a Successful Free Software Project</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(79).pdf" style="text-decoration:none;">How to Think Like a Computer Scientist: 
+Learning with Python</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(80).pdf" style="text-decoration:none;">How to Think Like a Computer Scientist --
+C Version</a></li> 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(81).pdf" style="text-decoration:none;">Yet Another: 
+Introductory Number Theory Textbook</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(82).pdf" style="text-decoration:none;">Think C++</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(83).pdf" style="text-decoration:none;">Think Python: 
+How to Think Like a Computer Scientist</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(84).pdf" style="text-decoration:none;">The Spec UI framework</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(85).pdf" style="text-decoration:none;">Think Data Structures: 
+Algorithms and Information Retrieval in Java</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(86).pdf" style="text-decoration:none;">Zen and the Art of the Internet</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(87).pdf" style="text-decoration:none;">Programming Languages: Application and
+Interpretation</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(88).pdf" style="text-decoration:none;">The Unicode
+Cookbook for Linguists: Managing writing systems using orthography profiles</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(89).pdf" style="text-decoration:none;">Hackers, Heroes of the
+Computer Revolution</a></li>
+  
+  
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(90).pdf" style="text-decoration:none;"> A Brief History of the Internet</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(91).pdf" style="text-decoration:none;">IBM 1401 Programming Systems</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(92).pdf" style="text-decoration:none;">Surfing the Internet</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(93).pdf" style="text-decoration:none;"> Hitchhiker's Guide to the
+Internet</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(94).pdf" style="text-decoration:none;">Condensation of Determinants, Being a New and Brief Method for Computing their Arithmetical Values</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(95).pdf" style="text-decoration:none;">Unmanned Aircraft Systems in the Cyber Domain</a></li>  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(96).pdf" style="text-decoration:none;">Understanding Document Accessibility</a></li> 
+  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(97).pdf" style="text-decoration:none;">Nature of Geographic Information</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(98).pdf" style="text-decoration:none;">INVENTORY ANALYTICS</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(99).pdf" style="text-decoration:none;">A Primer for Computational Biology</a></li>  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(100).pdf" style="text-decoration:none;">Business Information Systems: Design an App for That</a></li>  
+   
  </ul>
