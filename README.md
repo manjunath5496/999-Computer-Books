@@ -986,7 +986,7 @@ for the Challenges of the Digital Age: 27th International Conference, GSCL 2017 
 Languages and Systems: 29th European Symposium on Programming, ESOP 2020 Held as Part of the European Joint Conferences on Theory and Practice of Software, ETAPS 2020
 Dublin, Ireland, April 25–30, 2020 Proceedings</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(56).pdf" style="text-decoration:none;">Debian GNU/Linux : Guide to Installation and Usage </a></li>                              
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(56).pdf" style="text-decoration:none;">C Elements of Style </a></li>                              
 
   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(57).pdf" style="text-decoration:none;">Android Notes for Professionals</a></li>
  
