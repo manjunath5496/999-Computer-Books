@@ -780,77 +780,76 @@ Implications of Artificial Intelligence</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(98).pdf" style="text-decoration:none;">Computer Science from the Bottom Up</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(99).pdf" style="text-decoration:none;">A Primer for Computational Biology</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(99).pdf" style="text-decoration:none;">Numerical Methods Course Notes
+Version 0.11 (UCSD Math 174, Fall 2004)</a></li>  
   
-<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(100).pdf" style="text-decoration:none;">Business Information Systems: Design an App for That</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(100).pdf" style="text-decoration:none;">Bison</a></li>  
   
-<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(101).pdf" style="text-decoration:none;">Computer Skills for Theology and Ministry</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(101).pdf" style="text-decoration:none;">PHP Reference: Beginner to Intermediate PHP5 </a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(102).pdf" style="text-decoration:none;">Debian GNU/Linux: Guide to Installation and Usage</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(102).pdf" style="text-decoration:none;">Bash Reference Manual</a></li> 
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(103).pdf" style="text-decoration:none;">The Complete FreeBSD </a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(103).pdf" style="text-decoration:none;">Programming in Standard ML </a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(104).pdf" style="text-decoration:none;">A Field Guide to
-Genetic Programming</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(104).pdf" style="text-decoration:none;">A Problem Course
+in Mathematical Logic (Version 1.6) </a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(105).pdf" style="text-decoration:none;">55 Ways to Have Fun With Google</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(105).pdf" style="text-decoration:none;">Cygwin User's Guide</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(106).pdf" style="text-decoration:none;">Managing Reputation in Cyberspace </a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(106).pdf" style="text-decoration:none;">The Not So Short Introduction to LATEX 2ε</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(107).pdf" style="text-decoration:none;">Mystic Microsoft: A Journey of Transformation in the Halls of High Technology</a></li> 
-  
-   
- <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(108).pdf" style="text-decoration:none;">Microsoft Excel 2003 Tips'N Tricks</a></li> 
-  
-   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(109).pdf" style="text-decoration:none;">The Media in the Network Society</a></li>  
-   
- <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(110).pdf" style="text-decoration:none;">Version Control with Subversion </a></li>  
-   
-<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(111).pdf" style="text-decoration:none;">Vim Recipes: A cookbook for the Vim text editor</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(107).pdf" style="text-decoration:none;">Web Applications Development
+Study Guide</a></li> 
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(112).pdf" style="text-decoration:none;">Wireless Networking in
-the Developing World</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(108).pdf" style="text-decoration:none;">An Introduction to GCC
+for the GNU Compilers gcc and g++</a></li> 
   
-  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(113).pdf" style="text-decoration:none;">How to Design Programs:
-An Introduction to Computing and Programming</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(109).pdf" style="text-decoration:none;">The little book about OS development</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(114).pdf" style="text-decoration:none;">Principles of Computer System Design: 
-An Introduction</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(115).pdf" style="text-decoration:none;">LOC Workshop on Electronic Texts</a></li>  
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(110).pdf" style="text-decoration:none;">Beej's Guide to Network Programming </a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(116).pdf" style="text-decoration:none;">The Real Cyberpunk
-Fakebook</a></li>   
-   
-   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(117).pdf" style="text-decoration:none;">Children's Internet
-Protection Act (CIPA) Ruling</a></li>  
-   
- <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(118).pdf" style="text-decoration:none;">Radio Shack TRS-80 Expansion
-Interface: Operator's Manual </a></li>  
-   
-  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(119).pdf" style="text-decoration:none;">Preliminary Specifications: Programmed Data Processor Model Three (PDP-3)</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(111).pdf" style="text-decoration:none;">The Promise and Peril
+of Big Data</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(120).pdf" style="text-decoration:none;">Digital PDP15 Price List</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(121).pdf" style="text-decoration:none;">Structure and Interpretation
-of Computer Programs</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(112).pdf" style="text-decoration:none;">Readings in Database Systems</a></li>   
+  
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(113).pdf" style="text-decoration:none;">Picking Up Perl</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(114).pdf" style="text-decoration:none;">Non-Programmer's Tutorial for Python 3/Print version</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(115).pdf" style="text-decoration:none;">Volume 6: Axiom Command</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(116).pdf" style="text-decoration:none;">Linux Newbie Administrator Guide (LNAG)</a></li>   
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(117).pdf" style="text-decoration:none;">How To Be a Programmer: A Short,
+Comprehensive, and Personal Summary</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(118).pdf" style="text-decoration:none;">The Little MongoDB Book </a></li>  
+   
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(119).pdf" style="text-decoration:none;">The Linux 2.4 Parallel Port Subsystem</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(120).pdf" style="text-decoration:none;">Economic Aspects of Free Software
+Study Guide</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(121).pdf" style="text-decoration:none;">Video4Linux Programming</a></li>   
    
   
- <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(122).pdf" style="text-decoration:none;">College Algebra </a></li>  
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(122).pdf" style="text-decoration:none;">CML2 Language and Tools
+Description: The Kernel Configuration Menu Language </a></li>  
      
-<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(123).pdf" style="text-decoration:none;">Linear Algebra I</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(123).pdf" style="text-decoration:none;">Z8530 Programming Guide</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(124).pdf" style="text-decoration:none;">Demystifying Internet
-of Things Security</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(124).pdf" style="text-decoration:none;">Unreliable Guide To Hacking The Linux
+Kernel</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(125).pdf" style="text-decoration:none;">Introduction
-to Scientific Programming with Python</a></li>   
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(125).pdf" style="text-decoration:none;">Unreliable Guide To Locking</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(126).pdf" style="text-decoration:none;">A Practical Introduction to
-Python Programming</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(126).pdf" style="text-decoration:none;">MCA Driver Programming Interface</a></li> 
    
-<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(127).pdf" style="text-decoration:none;">Introduction to Modern Algebra</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(127).pdf" style="text-decoration:none;">Synchronous PPP and Cisco HDLC
+Programming Guide</a></li>  
    
   
  </ul>
