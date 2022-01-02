@@ -576,5 +576,286 @@ Business Process Management</a></li>
 An Introduction</a></li>  
   
   
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(1).pdf" style="text-decoration:none;">A Programmer's Guide to
+Data Mining</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(2).pdf" style="text-decoration:none;">Algorithms</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(3).pdf" style="text-decoration:none;">Introduction to Web Application development</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(4).pdf" style="text-decoration:none;">Information Systems:
+A Manager's Guide to Harnessing Technology</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(5).pdf" style="text-decoration:none;">Precalculus: An Investigation of Functions</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(6).pdf" style="text-decoration:none;">GNU/Linux Advanced Administration</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(7).pdf" style="text-decoration:none;">Scipy Lecture Notes: One document to learn numerics, science, and data with Python</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(8).pdf" style="text-decoration:none;"> Crypto 101 </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(9).pdf" style="text-decoration:none;">Programming Computer Vision
+with Python</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(10).pdf" style="text-decoration:none;">APEX Calculus II </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(11).pdf" style="text-decoration:none;">Introduction to Statistical Thought</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(12).pdf" style="text-decoration:none;">OpenOffice.org 3 Writer Guide</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(13).pdf" style="text-decoration:none;">Hadoop Illuminated</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(14).pdf" style="text-decoration:none;">Understanding the Linux
+Virtual Memory Manager</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(15).pdf" style="text-decoration:none;">LINUX QUICK FIX NOTEBOOK</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(16).pdf" style="text-decoration:none;">Why's (Poignant) Guide to Ruby</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(17).pdf" style="text-decoration:none;">SOFTWARE AND MIND: The Mechanistic Myth
+and Its Consequences</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(18).pdf" style="text-decoration:none;">A Brief Introduction to
+Neural Networks</a></li> 
+
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(19).pdf" style="text-decoration:none;">Iptables Tutorial 1.2.2</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(20).pdf" style="text-decoration:none;">How To Accelerate Your
+Internet: A practical guide to Bandwidth Management and Optimisation using Open Source Software</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(21).pdf" style="text-decoration:none;">An Introduction to
+Matlab and Mathcad</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(22).pdf" style="text-decoration:none;">Linear Algebra</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(23).pdf" style="text-decoration:none;">Don't Just Roll The Dice</a></li> 
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(24).pdf" style="text-decoration:none;">Linear Algebra: Theory And Applications</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(25).pdf" style="text-decoration:none;">Active Calculus - Multivariable</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(26).pdf" style="text-decoration:none;">The Rise of Open Source Licensing: A Challenge to the Use of Intellectual Property in the Software Industry</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(27).pdf" style="text-decoration:none;">Fourier and Wavelet Signal Processing</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(28).pdf" style="text-decoration:none;">A Gentle Introduction to GIS</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(29).pdf" style="text-decoration:none;">GNU Octave </a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(30).pdf" style="text-decoration:none;">Self-Service Linux</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(31).pdf" style="text-decoration:none;">Models of Computation: Exploring the Power of Computing</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(32).pdf" style="text-decoration:none;">THINKING FORTH: A Language
+and Philosophy for Solving Problems</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(33).pdf" style="text-decoration:none;">Introduction to Computing: Explorations in Language, Logic, and Machines</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(34).pdf" style="text-decoration:none;">Yet Another Calculus Text: A Short Introduction with Infinitesimals</a></li> 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(35).pdf" style="text-decoration:none;">Elementary
+Calculus</a></li> 
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(36).pdf" style="text-decoration:none;">Hacking Secret Ciphers with Python</a></li> 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(37).pdf" style="text-decoration:none;">Introduction to Free Software</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(38).pdf" style="text-decoration:none;">A Field Guide to
+Genetic Programming</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(39).pdf" style="text-decoration:none;">A Computational Introduction to Number Theory and Algebra</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(40).pdf" style="text-decoration:none;">Essentials of Metaheuristics</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(41).pdf" style="text-decoration:none;">Programming for Non-Programmers</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(42).pdf" style="text-decoration:none;">Modern C</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(43).pdf" style="text-decoration:none;">APEX Calculus I</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(44).pdf" style="text-decoration:none;">Economic Aspects and Business Models of Free Software</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(45).pdf" style="text-decoration:none;">Sage for Power Users</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(46).pdf" style="text-decoration:none;">Free Software for Busy People</a></li> 
+                             
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(47).pdf" style="text-decoration:none;">C.R.U.I.S.E - Component Reuse in Software Engineering</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(48).pdf" style="text-decoration:none;">GTK+ / Gnome Application
+Development</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(49).pdf" style="text-decoration:none;">MIPS Assembly Language Programming using QtSpim</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(50).pdf" style="text-decoration:none;">Vector Calculus</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(51).pdf" style="text-decoration:none;">x86-64 Assembly Language Programming
+with Ubuntu</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(52).pdf" style="text-decoration:none;">Think Bayes: 
+Bayesian Statistics Made Simple</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(53).pdf" style="text-decoration:none;">Programming Fundamentals - A Modular
+Structured Approach using C++</a></li>
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(54).pdf" style="text-decoration:none;">The Jargon File, Version 2.9.10 </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(55).pdf" style="text-decoration:none;">Embedded Controllers
+Using C and Arduino / 2E</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(56).pdf" style="text-decoration:none;">Debian GNU/Linux : Guide to Installation and Usage </a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(57).pdf" style="text-decoration:none;">Python for Everybody:
+Exploring Data Using Python 3</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(58).pdf" style="text-decoration:none;">Introduction to Statistical
+Thinking</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(59).pdf" style="text-decoration:none;">Java with BlueJ Part 2</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(60).pdf" style="text-decoration:none;">Computer Science I </a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(61).pdf" style="text-decoration:none;">Think Raku: 
+How to Think Like a Computer Scientist</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(62).pdf" style="text-decoration:none;">Eloquent JavaScript</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(63).pdf" style="text-decoration:none;">Implementing a One Address CPU in Logisim</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(64).pdf" style="text-decoration:none;">Python Machine Learning Projects</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(65).pdf" style="text-decoration:none;">Think Stats: 
+Exploratory Data Analysis in Python </a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(66).pdf" style="text-decoration:none;">Introduction to
+Programming using Fortran 95/2003/2008</a></li> 
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(67).pdf" style="text-decoration:none;">Java with BlueJ</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(68).pdf" style="text-decoration:none;">Think Java: 
+How to Think Like a Computer Scientist</a></li> 
+ 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(69).pdf" style="text-decoration:none;">Foundations of Computation</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(70).pdf" style="text-decoration:none;">Open Data Structures: an introduction</a></li> 
+  
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(71).pdf" style="text-decoration:none;">Hacker Crackdown: 
+Law and Disorder on the Electronic Frontier</a></li>
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(72).pdf" style="text-decoration:none;">Combinatorics: 
+an upper-level introductory course in enumeration, graph theory, and design theory</a></li> 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(73).pdf" style="text-decoration:none;">Fast Fourier Transforms</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(74).pdf" style="text-decoration:none;">Big Dummy's Guide to the
+Internet</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(75).pdf" style="text-decoration:none;">Physical Modeling in MATLAB</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(76).pdf" style="text-decoration:none;">A Fortran Program for Elastic Scattering
+Analyses with the Nuclear Optical Model</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(77).pdf" style="text-decoration:none;">The Survivors of the Chancellor</a></li> 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(78).pdf" style="text-decoration:none;">Producing Open Source Software: 
+How to Run a Successful Free Software Project</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(79).pdf" style="text-decoration:none;">How to Think Like a Computer Scientist: 
+Learning with Python</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(80).pdf" style="text-decoration:none;">How to Think Like a Computer Scientist --
+C Version</a></li> 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(81).pdf" style="text-decoration:none;">Yet Another: 
+Introductory Number Theory Textbook</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(82).pdf" style="text-decoration:none;">Think C++</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(83).pdf" style="text-decoration:none;">Think Python: 
+How to Think Like a Computer Scientist</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(84).pdf" style="text-decoration:none;">The Spec UI framework</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(85).pdf" style="text-decoration:none;">Think Data Structures: 
+Algorithms and Information Retrieval in Java</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(86).pdf" style="text-decoration:none;">Zen and the Art of the Internet</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(87).pdf" style="text-decoration:none;">Programming Languages: Application and
+Interpretation</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(88).pdf" style="text-decoration:none;">The Unicode
+Cookbook for Linguists: Managing writing systems using orthography profiles</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(89).pdf" style="text-decoration:none;">Hackers, Heroes of the
+Computer Revolution</a></li>
+  
+  
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(90).pdf" style="text-decoration:none;"> A Brief History of the Internet</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(91).pdf" style="text-decoration:none;">IBM 1401 Programming Systems</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(92).pdf" style="text-decoration:none;">Surfing the Internet</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(93).pdf" style="text-decoration:none;"> Hitchhiker's Guide to the
+Internet</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(94).pdf" style="text-decoration:none;">Condensation of Determinants, Being a New and Brief Method for Computing their Arithmetical Values</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(95).pdf" style="text-decoration:none;">Unmanned Aircraft Systems in the Cyber Domain</a></li>  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(96).pdf" style="text-decoration:none;">Understanding Document Accessibility</a></li> 
+  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(97).pdf" style="text-decoration:none;">Nature of Geographic Information</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(98).pdf" style="text-decoration:none;">INVENTORY ANALYTICS</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(99).pdf" style="text-decoration:none;">A Primer for Computational Biology</a></li>  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(100).pdf" style="text-decoration:none;">Business Information Systems: Design an App for That</a></li>  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(101).pdf" style="text-decoration:none;">Computer Skills for Theology and Ministry</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(102).pdf" style="text-decoration:none;">Debian GNU/Linux: Guide to Installation and Usage</a></li> 
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(103).pdf" style="text-decoration:none;">The Complete FreeBSD </a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(104).pdf" style="text-decoration:none;">A Field Guide to
+Genetic Programming</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(105).pdf" style="text-decoration:none;">55 Ways to Have Fun With Google</a></li> 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(106).pdf" style="text-decoration:none;">Managing Reputation in Cyberspace </a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(107).pdf" style="text-decoration:none;">Mystic Microsoft: A Journey of Transformation in the Halls of High Technology</a></li> 
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(108).pdf" style="text-decoration:none;">Microsoft Excel 2003 Tips'N Tricks</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(109).pdf" style="text-decoration:none;">The Media in the Network Society</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(110).pdf" style="text-decoration:none;">Version Control with Subversion </a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(111).pdf" style="text-decoration:none;">Vim Recipes: A cookbook for the Vim text editor</a></li> 
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(112).pdf" style="text-decoration:none;">Wireless Networking in
+the Developing World</a></li>   
+  
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(113).pdf" style="text-decoration:none;">How to Design Programs:
+An Introduction to Computing and Programming</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(114).pdf" style="text-decoration:none;">Principles of Computer System Design: 
+An Introduction</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(115).pdf" style="text-decoration:none;">LOC Workshop on Electronic Texts</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(116).pdf" style="text-decoration:none;">The Real Cyberpunk
+Fakebook</a></li>   
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(117).pdf" style="text-decoration:none;">Children's Internet
+Protection Act (CIPA) Ruling</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(118).pdf" style="text-decoration:none;">Radio Shack TRS-80 Expansion
+Interface: Operator's Manual </a></li>  
+   
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(119).pdf" style="text-decoration:none;">Preliminary Specifications: Programmed Data Processor Model Three (PDP-3)</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(120).pdf" style="text-decoration:none;">Digital PDP15 Price List</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(121).pdf" style="text-decoration:none;">Structure and Interpretation
+of Computer Programs</a></li>   
+   
+  
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(122).pdf" style="text-decoration:none;">College Algebra </a></li>  
+     
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(123).pdf" style="text-decoration:none;">Linear Algebra I</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(124).pdf" style="text-decoration:none;">Demystifying Internet
+of Things Security</a></li>   
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(125).pdf" style="text-decoration:none;">Introduction
+to Scientific Programming with Python</a></li>   
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(126).pdf" style="text-decoration:none;">A Practical Introduction to
+Python Programming</a></li> 
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(127).pdf" style="text-decoration:none;">Introduction to Modern Algebra</a></li>  
+   
   
  </ul>
