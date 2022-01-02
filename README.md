@@ -755,27 +755,30 @@ Free Software Movement Undercut the High-Tech Titans</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(87).pdf" style="text-decoration:none;">Linear Algebra Done Wrong</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(88).pdf" style="text-decoration:none;">OPENSOURCES: Voices from the Open Source Revolution</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(89).pdf" style="text-decoration:none;">Hackers, Heroes of the
-Computer Revolution</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(89).pdf" style="text-decoration:none;">Non-Programmer's Tutorial for Python
+2.6</a></li>
   
   
-  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(90).pdf" style="text-decoration:none;"> A Brief History of the Internet</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(91).pdf" style="text-decoration:none;">IBM 1401 Programming Systems</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(90).pdf" style="text-decoration:none;"> Introduction to Theory of Computation</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(91).pdf" style="text-decoration:none;">Explore Flask Documentation</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(92).pdf" style="text-decoration:none;">Surfing the Internet</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(93).pdf" style="text-decoration:none;"> Hitchhiker's Guide to the
-Internet</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(94).pdf" style="text-decoration:none;">Condensation of Determinants, Being a New and Brief Method for Computing their Arithmetical Values</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(92).pdf" style="text-decoration:none;">Fundamentals of Matrix Algebra</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(93).pdf" style="text-decoration:none;"> Producing Open Source Software: 
+How to Run a Successful Free Software Project</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(94).pdf" style="text-decoration:none;">Ruby Programming</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(95).pdf" style="text-decoration:none;">Unmanned Aircraft Systems in the Cyber Domain</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(95).pdf" style="text-decoration:none;">Algebraic Number Theory,
+a Computational Approach</a></li>  
   
-<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(96).pdf" style="text-decoration:none;">Understanding Document Accessibility</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(96).pdf" style="text-decoration:none;">Performance and Evaluation
+of Lisp Systems</a></li> 
   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(97).pdf" style="text-decoration:none;">Nature of Geographic Information</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(97).pdf" style="text-decoration:none;">Brief Introduction to Educational
+Implications of Artificial Intelligence</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(98).pdf" style="text-decoration:none;">INVENTORY ANALYTICS</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(98).pdf" style="text-decoration:none;">Computer Science from the Bottom Up</a></li> 
   
    <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/l(99).pdf" style="text-decoration:none;">A Primer for Computational Biology</a></li>  
   
