@@ -1013,87 +1013,94 @@ for the Construction and Analysis of Systems: 26th International Conference, TAC
    <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(65).pdf" style="text-decoration:none;">The InfoSec Handbook: 
 An Introduction to Information Security </a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(66).pdf" style="text-decoration:none;">Introduction to
-Programming using Fortran 95/2003/2008</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(66).pdf" style="text-decoration:none;">Data Science for
+Economics and Finance: Methodologies and Applications</a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(67).pdf" style="text-decoration:none;">Java with BlueJ</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(67).pdf" style="text-decoration:none;">Fundamental Approaches
+to Software Engineering: 24th International Conference, FASE 2021 Held as Part of the European Joint Conferences on Theory and Practice of Software, ETAPS 2021
+Luxembourg City, Luxembourg, March 27 – April 1, 2021 Proceedings</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(68).pdf" style="text-decoration:none;">Think Java: 
-How to Think Like a Computer Scientist</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(68).pdf" style="text-decoration:none;">Sublinear Computation Paradigm: Algorithmic Revolution in the Big Data Era</a></li> 
  
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(69).pdf" style="text-decoration:none;">Foundations of Computation</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(69).pdf" style="text-decoration:none;">Security of Networks
+and Services in an All-Connected World: 11th IFIP WG 6.6 International Conference on Autonomous Infrastructure, Management, and Security, AIMS 2017 Zurich, Switzerland, July 10–13, 2017 Proceedings</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(70).pdf" style="text-decoration:none;">Open Data Structures: an introduction</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(70).pdf" style="text-decoration:none;">Agile Processes
+in Software Engineering and Extreme Programming: 22nd International Conference on Agile Software Development, XP 2021 Virtual Event, June 14–18, 2021 Proceedings</a></li> 
   
  
- <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(71).pdf" style="text-decoration:none;">Hacker Crackdown: 
-Law and Disorder on the Electronic Frontier</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(71).pdf" style="text-decoration:none;">Probability in Electrical
+Engineering and Computer Science: An Application-Driven Course</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(72).pdf" style="text-decoration:none;">Combinatorics: 
-an upper-level introductory course in enumeration, graph theory, and design theory</a></li> 
- 
- 
- <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(73).pdf" style="text-decoration:none;">Fast Fourier Transforms</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(74).pdf" style="text-decoration:none;">Big Dummy's Guide to the
-Internet</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(75).pdf" style="text-decoration:none;">Physical Modeling in MATLAB</a></li>                        
-<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(76).pdf" style="text-decoration:none;">A Fortran Program for Elastic Scattering
-Analyses with the Nuclear Optical Model</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(77).pdf" style="text-decoration:none;">The Survivors of the Chancellor</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(72).pdf" style="text-decoration:none;">Cloud-Based
+Benchmarking of Medical Image Analysis</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(78).pdf" style="text-decoration:none;">Producing Open Source Software: 
-How to Run a Successful Free Software Project</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(79).pdf" style="text-decoration:none;">How to Think Like a Computer Scientist: 
-Learning with Python</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(73).pdf" style="text-decoration:none;">Perspectives on Digital
+Humanism</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(74).pdf" style="text-decoration:none;">Representation Learning for
+Natural Language Processing</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(75).pdf" style="text-decoration:none;">Open Source Systems: Towards Robust Practices- 13th IFIP WG 2.13 International Conference, OSS 2017 Buenos Aires, Argentina, May 22–23, 2017 Proceedings</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(76).pdf" style="text-decoration:none;">Agile Processes
+in Software Engineering and Extreme Programming – Workshops XP 2021 Workshops Virtual Event, June 14–18, 2021 Revised Selected Papers</a></li>
 
-
- <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(80).pdf" style="text-decoration:none;">How to Think Like a Computer Scientist --
-C Version</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(77).pdf" style="text-decoration:none;">Foundations of Multi-Paradigm
+Modelling for Cyber-Physical Systems</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(81).pdf" style="text-decoration:none;">Yet Another: 
-Introductory Number Theory Textbook</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(82).pdf" style="text-decoration:none;">Think C++</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(83).pdf" style="text-decoration:none;">Think Python: 
-How to Think Like a Computer Scientist</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(84).pdf" style="text-decoration:none;">The Spec UI framework</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(85).pdf" style="text-decoration:none;">Think Data Structures: 
-Algorithms and Information Retrieval in Java</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(86).pdf" style="text-decoration:none;">Zen and the Art of the Internet</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(87).pdf" style="text-decoration:none;">Programming Languages: Application and
-Interpretation</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(88).pdf" style="text-decoration:none;">The Unicode
-Cookbook for Linguists: Managing writing systems using orthography profiles</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(89).pdf" style="text-decoration:none;">Hackers, Heroes of the
-Computer Revolution</a></li>
-  
-  
-  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(90).pdf" style="text-decoration:none;"> A Brief History of the Internet</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(91).pdf" style="text-decoration:none;">IBM 1401 Programming Systems</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(92).pdf" style="text-decoration:none;">Surfing the Internet</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(93).pdf" style="text-decoration:none;"> Hitchhiker's Guide to the
-Internet</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(94).pdf" style="text-decoration:none;">Condensation of Determinants, Being a New and Brief Method for Computing their Arithmetical Values</a></li> 
-  
-   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(95).pdf" style="text-decoration:none;">Unmanned Aircraft Systems in the Cyber Domain</a></li>  
-  
-<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(96).pdf" style="text-decoration:none;">Understanding Document Accessibility</a></li> 
-  
-  
-<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(97).pdf" style="text-decoration:none;">Nature of Geographic Information</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(78).pdf" style="text-decoration:none;">S-BPMIllustrated: A Storybook about Business Process Modeling and Execution</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(79).pdf" style="text-decoration:none;">Musical Haptics</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(98).pdf" style="text-decoration:none;">INVENTORY ANALYTICS</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(80).pdf" style="text-decoration:none;">Security in Computer
+and Information Sciences: First International ISCIS Security Workshop 2018 Euro-CYBERSEC 2018 London, UK, February 26–27, 2018 Revised Selected Papers</a></li> 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(81).pdf" style="text-decoration:none;">Elements of Robotics</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(82).pdf" style="text-decoration:none;">Agile Processes
+in Software Engineering and Extreme Programming – Workshops: XP 2020 Workshops Copenhagen, Denmark, June 8–12, 2020 Revised Selected Papers</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(83).pdf" style="text-decoration:none;">Demystifying
+Internet of Things Security</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(84).pdf" style="text-decoration:none;">Cyber Security: 15th International Annual Conference, CNCERT 2018 Beijing, China, August 14–16, 2018 Revised Selected Papers</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(85).pdf" style="text-decoration:none;">Programming
+Persistent Memory: A Comprehensive Guide for Developers</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(86).pdf" style="text-decoration:none;">Tools and Algorithms
+for the Construction and Analysis of Systems: 25 Years of TACAS: TOOLympics Held as Part of ETAPS 2019 Prague, Czech Republic, April 6–11, 2019 Proceedings, Part III</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(87).pdf" style="text-decoration:none;">S-BPM in the Wild</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(88).pdf" style="text-decoration:none;">Digital Video Concepts, Methods, and Metrics:  Quality, Compression, Performance, and Power Trade-off Analysis</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(89).pdf" style="text-decoration:none;">Tools and Algorithms
+for the Construction and Analysis of Systems: 27th International Conference, TACAS 2021 Held as Part of the European Joint Conferences on Theory and Practice of Software, ETAPS 2021 Luxembourg City, Luxembourg, March 27 – April 1, 2021 Proceedings, Part I</a></li>
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(99).pdf" style="text-decoration:none;">A Primer for Computational Biology</a></li>  
   
-<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(100).pdf" style="text-decoration:none;">Business Information Systems: Design an App for That</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(90).pdf" style="text-decoration:none;"> Building the Infrastructure for Cloud Security:  A Solutions view</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(91).pdf" style="text-decoration:none;">Enabling Things to Talk: 
+Designing IoT solutions with the IoT Architectural Reference Model</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(92).pdf" style="text-decoration:none;">Efficient Learning Machines: 
+Theories, Concepts, and Applications for Engineers and System Designers</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(93).pdf" style="text-decoration:none;"> Sensor Technologies: 
+Healthcare, Wellness, and Environmental Applications</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(94).pdf" style="text-decoration:none;">Python for Science
+and Engineering</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(95).pdf" style="text-decoration:none;">The Privacy Engineer's Manifesto: 
+Getting from Policy to Code to QA to Value</a></li>  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(96).pdf" style="text-decoration:none;">Supercomputing Frontiers: 5th Asian Conference, SCFA 2019 Singapore, March 11–14, 2019 Proceedings</a></li> 
+  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(97).pdf" style="text-decoration:none;">Intertwingled: The Work and Influence of Ted Nelson</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(98).pdf" style="text-decoration:none;">Java Notes for Professionals</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(99).pdf" style="text-decoration:none;">DevOps for Digital Leaders: Reignite Business with a Modern DevOps-Enabled Software Factory</a></li>  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(100).pdf" style="text-decoration:none;">Rethinking the Internet of Things: 
+A Scalable Approach to Connecting Everything</a></li>  
    
  </ul>
