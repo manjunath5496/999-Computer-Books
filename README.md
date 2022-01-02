@@ -1102,5 +1102,59 @@ Getting from Policy to Code to QA to Value</a></li>
   
 <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(100).pdf" style="text-decoration:none;">Rethinking the Internet of Things: 
 A Scalable Approach to Connecting Everything</a></li>  
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/z(1).pdf" style="text-decoration:none;">Python Anti-Patterns</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/z(2).pdf" style="text-decoration:none;">Computer Aided
+Verification: 33rd International Conference, CAV 2021 Virtual Event, July 20–23, 2021 Proceedings, Part II</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/z(3).pdf" style="text-decoration:none;">Programming
+Languages and Systems: 27th European Symposium on Programming, ESOP 2018 Held as Part of the European Joint Conferences on Theory and Practice of Software, ETAPS 2018
+Thessaloniki, Greece, April 14–20, 2018 Proceedings</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/z(4).pdf" style="text-decoration:none;">Computer Aided
+Verification: 30th International Conference, CAV 2018 Held as Part of the Federated Logic Conference, FloC 2018 Oxford, UK, July 14–17, 2018 Proceedings, Part I</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/z(5).pdf" style="text-decoration:none;">Computer Aided Verification: 32nd International Conference, CAV 2020 Los Angeles, CA, USA, July 21–24, 2020 Proceedings, Part I</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/z(6).pdf" style="text-decoration:none;">The Future Internet - Future Internet Assembly 2013: Validated Results and New Horizons</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/z(7).pdf" style="text-decoration:none;">Fundamental Approaches
+to Software Engineering: 21st International Conference, FASE 2018 Held as Part of the European Joint Conferences on Theory and Practice of Software, ETAPS 2018 Thessaloniki, Greece, April 14–20, 2018 Proceedings</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/z(8).pdf" style="text-decoration:none;"> Fundamental Approaches to Software Engineering:  22nd International Conference, FASE 2019 Held as Part of the European Joint Conferences on Theory and Practice of Software, ETAPS 2019 Prague, Czech Republic, April 6–11, 2019 Proceedings </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/z(9).pdf" style="text-decoration:none;">Supercomputing Frontiers: 4th Asian Conference, SCFA 2018 Singapore, March 26–29, 2018 Proceedings</a></li>
+  
    
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/z(10).pdf" style="text-decoration:none;">CyberParks – The Interface Between People, Places and Technology: New Approaches and Perspectives </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/z(11).pdf" style="text-decoration:none;">High-Performance Modelling
+and Simulation for Big Data Applications: Selected Results of the COST Action IC1406 cHiPSet</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/z(12).pdf" style="text-decoration:none;">Python 101</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/z(13).pdf" style="text-decoration:none;">Ray Tracing Gems: High-Quality and Real-Time Rendering with DXR and Other APIs</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/z(14).pdf" style="text-decoration:none;">Advances in Intelligent Data Analysis XVIII: 18th International Symposium on Intelligent Data Analysis, IDA 2020 Konstanz, Germany, April 27–29, 2020 Proceedings</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/z(15).pdf" style="text-decoration:none;">Programming walkthroughs: Coding with
+Python and Repl.it</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/z(16).pdf" style="text-decoration:none;">The Impact of Digital
+Technologies on Public Health in Developed and Developing Countries: 18th International Conference, ICOST 2020 Hammamet, Tunisia, June 24–26, 2020 Proceedings</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/z(17).pdf" style="text-decoration:none;">Towards Interoperable
+Research Infrastructures for Environmental and Earth Sciences: A Reference Model Guided Approach for Common Challenges</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/z(18).pdf" style="text-decoration:none;">Enhanced Living Environments: Algorithms, Architectures, Platforms, and Systems</a></li> 
+
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/z(19).pdf" style="text-decoration:none;">Medical Imaging Systems: An Introductory Guide</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/z(20).pdf" style="text-decoration:none;">Cyber-Physical Systems of Systems
+Foundations – A Conceptual Model and Some Derivations: The AMADEOS Legacy</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/z(21).pdf" style="text-decoration:none;">Automated Deduction – CADE 28: 28th International Conference on Automated Deduction Virtual Event, July 12–15, 2021 Proceedings</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/z(22).pdf" style="text-decoration:none;">Computer Aided Verification: 33rd International Conference, CAV 2021 Virtual Event, July 20–23, 2021 Proceedings, Part I</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/z(23).pdf" style="text-decoration:none;">Subject-Oriented
+Business Process Management</a></li> 
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/z(24).pdf" style="text-decoration:none;">Office 365: 
+Migrating and Managing Your Business in the Cloud</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/z(25).pdf" style="text-decoration:none;">Projection-Based Clustering through
+Self-Organization and Swarm Intelligence</a></li>     
  </ul>
