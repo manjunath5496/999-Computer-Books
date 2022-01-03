@@ -1267,124 +1267,106 @@ to Financial Argument Mining</a></li>
                               
 <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(50).pdf" style="text-decoration:none;">Managing Risk and Information Security: 
 Protect to Enable</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(51).pdf" style="text-decoration:none;">x86-64 Assembly Language Programming
-with Ubuntu</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(52).pdf" style="text-decoration:none;">Think Bayes: 
-Bayesian Statistics Made Simple</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(51).pdf" style="text-decoration:none;">Computation and the Humanities: Towards an Oral History of Digital Humanities</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(52).pdf" style="text-decoration:none;">Mobile Edge Computing</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(53).pdf" style="text-decoration:none;">Programming Fundamentals - A Modular
-Structured Approach using C++</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(53).pdf" style="text-decoration:none;">Artificial Intelligence for a Better Future: An Ecosystem Perspective on the Ethics of AI and Emerging Digital Technologies</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(54).pdf" style="text-decoration:none;">The Jargon File, Version 2.9.10 </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(54).pdf" style="text-decoration:none;">MATLAB Notes for Professionals </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(55).pdf" style="text-decoration:none;">Embedded Controllers
-Using C and Arduino / 2E</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(55).pdf" style="text-decoration:none;">Node.js Notes for Professionals</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(56).pdf" style="text-decoration:none;">Debian GNU/Linux : Guide to Installation and Usage </a></li>                              
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(56).pdf" style="text-decoration:none;">Python for network engineers</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(57).pdf" style="text-decoration:none;">Python for Everybody:
-Exploring Data Using Python 3</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(57).pdf" style="text-decoration:none;">Swift Notes for Professionals</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(58).pdf" style="text-decoration:none;">Introduction to Statistical
-Thinking</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(59).pdf" style="text-decoration:none;">Java with BlueJ Part 2</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(58).pdf" style="text-decoration:none;">Informatics in the Future: Proceedings of the 11th European Computer Science Summit (ECSS 2015), Vienna, October 2015</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(59).pdf" style="text-decoration:none;">Microsoft SQL Server Notes for Professionals</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(60).pdf" style="text-decoration:none;">Computer Science I </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(60).pdf" style="text-decoration:none;">Algorithms Notes for Professionals </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(61).pdf" style="text-decoration:none;">Think Raku: 
-How to Think Like a Computer Scientist</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(61).pdf" style="text-decoration:none;">Xamarin.Forms Notes for Professionals</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(62).pdf" style="text-decoration:none;">Eloquent JavaScript</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(62).pdf" style="text-decoration:none;">Git Notes for Professionals</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(63).pdf" style="text-decoration:none;">Implementing a One Address CPU in Logisim</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(63).pdf" style="text-decoration:none;">Excel VBA Notes for Professionals</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(64).pdf" style="text-decoration:none;">Python Machine Learning Projects</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(64).pdf" style="text-decoration:none;">Policy-Oriented
+Technology Assessment Across Europe: Expanding Capacities</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(65).pdf" style="text-decoration:none;">Think Stats: 
-Exploratory Data Analysis in Python </a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(65).pdf" style="text-decoration:none;">The Huawei and Snowden
+Questions: Can Electronic Equipment from Untrusted Vendors be Verified? Can an Untrusted Vendor Build Trust into Electronic Equipment? </a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(66).pdf" style="text-decoration:none;">Introduction to
-Programming using Fortran 95/2003/2008</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(66).pdf" style="text-decoration:none;"> C Notes for Professionals</a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(67).pdf" style="text-decoration:none;">Java with BlueJ</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(67).pdf" style="text-decoration:none;">VBA Notes for Professionals</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(68).pdf" style="text-decoration:none;">Think Java: 
-How to Think Like a Computer Scientist</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(68).pdf" style="text-decoration:none;">Visual Basic.NET Notes for Professionals</a></li> 
  
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(69).pdf" style="text-decoration:none;">Foundations of Computation</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(69).pdf" style="text-decoration:none;">AngularJS Notes for Professionals</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(70).pdf" style="text-decoration:none;">Open Data Structures: an introduction</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(70).pdf" style="text-decoration:none;">Ruby on Rails Notes for Professionals</a></li> 
   
  
- <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(71).pdf" style="text-decoration:none;">Hacker Crackdown: 
-Law and Disorder on the Electronic Frontier</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(71).pdf" style="text-decoration:none;">Coffee Break Python
+Slicing: 24 Workouts to Master Slicing in Python, Once and For All</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(72).pdf" style="text-decoration:none;">Combinatorics: 
-an upper-level introductory course in enumeration, graph theory, and design theory</a></li> 
- 
- 
- <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(73).pdf" style="text-decoration:none;">Fast Fourier Transforms</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(74).pdf" style="text-decoration:none;">Big Dummy's Guide to the
-Internet</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(75).pdf" style="text-decoration:none;">Physical Modeling in MATLAB</a></li>                        
-<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(76).pdf" style="text-decoration:none;">A Fortran Program for Elastic Scattering
-Analyses with the Nuclear Optical Model</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(77).pdf" style="text-decoration:none;">The Survivors of the Chancellor</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(72).pdf" style="text-decoration:none;">The Amazing
+Journey of Reason from DNA to Artificial Intelligence</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(78).pdf" style="text-decoration:none;">Producing Open Source Software: 
-How to Run a Successful Free Software Project</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(79).pdf" style="text-decoration:none;">How to Think Like a Computer Scientist: 
-Learning with Python</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(73).pdf" style="text-decoration:none;">Haskell Notes for Professionals</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(74).pdf" style="text-decoration:none;">HTML5 Canvas Notes for Professionals</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(75).pdf" style="text-decoration:none;">MySQL Notes for Professionals</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(76).pdf" style="text-decoration:none;">Ruby Notes for Professionals </a></li>
 
-
- <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(80).pdf" style="text-decoration:none;">How to Think Like a Computer Scientist --
-C Version</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(77).pdf" style="text-decoration:none;">.NET Framework Notes for Professionals</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(81).pdf" style="text-decoration:none;">Yet Another: 
-Introductory Number Theory Textbook</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(82).pdf" style="text-decoration:none;">Think C++</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(83).pdf" style="text-decoration:none;">Think Python: 
-How to Think Like a Computer Scientist</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(84).pdf" style="text-decoration:none;">The Spec UI framework</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(85).pdf" style="text-decoration:none;">Think Data Structures: 
-Algorithms and Information Retrieval in Java</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(86).pdf" style="text-decoration:none;">Zen and the Art of the Internet</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(87).pdf" style="text-decoration:none;">Programming Languages: Application and
-Interpretation</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(88).pdf" style="text-decoration:none;">The Unicode
-Cookbook for Linguists: Managing writing systems using orthography profiles</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(89).pdf" style="text-decoration:none;">Hackers, Heroes of the
-Computer Revolution</a></li>
-  
-  
-  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(90).pdf" style="text-decoration:none;"> A Brief History of the Internet</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(91).pdf" style="text-decoration:none;">IBM 1401 Programming Systems</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(92).pdf" style="text-decoration:none;">Surfing the Internet</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(93).pdf" style="text-decoration:none;"> Hitchhiker's Guide to the
-Internet</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(94).pdf" style="text-decoration:none;">Condensation of Determinants, Being a New and Brief Method for Computing their Arithmetical Values</a></li> 
-  
-   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(95).pdf" style="text-decoration:none;">Unmanned Aircraft Systems in the Cyber Domain</a></li>  
-  
-<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(96).pdf" style="text-decoration:none;">Understanding Document Accessibility</a></li> 
-  
-  
-<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(97).pdf" style="text-decoration:none;">Nature of Geographic Information</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(78).pdf" style="text-decoration:none;">Angular 2+
+Notes for Professionals</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(79).pdf" style="text-decoration:none;">PowerShell Notes for Professionals</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(98).pdf" style="text-decoration:none;">INVENTORY ANALYTICS</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(80).pdf" style="text-decoration:none;">Bash Notes for Professionals</a></li> 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(81).pdf" style="text-decoration:none;">SQL Notes for Professionals</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(82).pdf" style="text-decoration:none;">Entity Framework Notes for Professionals</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(83).pdf" style="text-decoration:none;">LaTeX Notes for Professionals</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(84).pdf" style="text-decoration:none;">Objective-C Notes for Professionals</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(85).pdf" style="text-decoration:none;">React Native Notes for Professionals</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(86).pdf" style="text-decoration:none;">HTML5 Notes for Professionals</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(87).pdf" style="text-decoration:none;">Preparing for Digital Disruption</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(88).pdf" style="text-decoration:none;">Perl Notes for Professionals</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(89).pdf" style="text-decoration:none;">Oracle Database Notes for Professionals</a></li>
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(99).pdf" style="text-decoration:none;">A Primer for Computational Biology</a></li>  
   
-<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(100).pdf" style="text-decoration:none;">Business Information Systems: Design an App for That</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(90).pdf" style="text-decoration:none;"> TypeScript
+Notes for Professionals </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(91).pdf" style="text-decoration:none;">Kotlin Notes for Professionals</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(92).pdf" style="text-decoration:none;">React JS Notes for Professionals</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(93).pdf" style="text-decoration:none;"> Full Speed Python </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(94).pdf" style="text-decoration:none;">jQuery Notes for Professionals </a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(95).pdf" style="text-decoration:none;">PostgreSQL Notes for Professionals</a></li>  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(96).pdf" style="text-decoration:none;">MongoDB Notes for Professionals </a></li> 
+  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(97).pdf" style="text-decoration:none;">Spring Framework Notes for Professionals</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(98).pdf" style="text-decoration:none;">Linux Notes for Professionals</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(99).pdf" style="text-decoration:none;">Hibernate Notes for Professionals </a></li>  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(100).pdf" style="text-decoration:none;">Python Tutorial: Release 3.7.0</a></li>  
     
   
   
