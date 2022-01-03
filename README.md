@@ -1369,7 +1369,7 @@ Notes for Professionals </a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(100).pdf" style="text-decoration:none;">Python Tutorial: Release 3.7.0</a></li>  
     
   
-     <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(101).pdf" style="text-decoration:none;">The GNU C Programming Tutorial </a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(101).pdf" style="text-decoration:none;">The GNU C Programming Tutorial </a></li>  
   
 <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(102).pdf" style="text-decoration:none;">The GNU C Reference Manual</a></li>  
     
