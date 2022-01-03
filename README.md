@@ -1160,108 +1160,113 @@ Self-Organization and Swarm Intelligence</a></li>
   
   
 
- <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(1).pdf" style="text-decoration:none;">Essentials of Geographic Information Systems</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(1).pdf" style="text-decoration:none;">Semantic Systems In the Era of Knowledge Graphs: 16th International Conference on Semantic Systems, SEMANTiCS 2020 Amsterdam, The Netherlands, September 7–10, 2020 Proceedings</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(2).pdf" style="text-decoration:none;">Computer Networks: A Systems
-Approach</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(2).pdf" style="text-decoration:none;">Scaling a Software Business</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(3).pdf" style="text-decoration:none;">The Discipline of Organizing: 4th Professional Edition</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(4).pdf" style="text-decoration:none;">Information Systems:
-A Manager's Guide to Harnessing Technology</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(5).pdf" style="text-decoration:none;">Introduction to the Modeling and Analysis of Complex Systems</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(6).pdf" style="text-decoration:none;">Pharo By Example 5</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(7).pdf" style="text-decoration:none;">Introduction to Autonomous Robots</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(3).pdf" style="text-decoration:none;">Principles of Security
+and Trust: 8th International Conference, POST 2019 Held as Part of the European Joint Conferences on Theory and Practice of Software, ETAPS 2019 Prague, Czech Republic, April 6–11, 2019 Proceedings</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(4).pdf" style="text-decoration:none;">Foundations
+of Software Science and Computation Structures: 24th International Conference, FOSSACS 2021 Held as Part of the European Joint Conferences on Theory and Practice of Software, ETAPS 2021 Luxembourg City, Luxembourg, March 27 – April 1, 2021 Proceedings</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(5).pdf" style="text-decoration:none;">Rational Cybersecurity for Business: The Security Leaders' Guide to Business Alignment</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(6).pdf" style="text-decoration:none;">Agile Processes in Software Engineering
+and Extreme Programming: 21st International Conference on Agile Software Development, XP 2020 Copenhagen, Denmark, June 8–12, 2020 Proceedings</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(7).pdf" style="text-decoration:none;">Energy Efficient Servers: Blueprints for Data Center Optimization</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(8).pdf" style="text-decoration:none;"> AUTOMATE THE BORING STUFF WITH PYTHON </a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(9).pdf" style="text-decoration:none;">Signal Computing:
-Digital Signals in the Software Domain</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(8).pdf" style="text-decoration:none;"> Security Infrastructure Technology for Integrated Utilization of Big Data </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(9).pdf" style="text-decoration:none;">Optimizing HPC Applications with Intel Cluster Tools</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(10).pdf" style="text-decoration:none;">Computer Networking : Principles,
-Protocols and Practice </a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(11).pdf" style="text-decoration:none;">Agent-Based Evolutionary Game Dynamics</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(12).pdf" style="text-decoration:none;">Database Design</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(13).pdf" style="text-decoration:none;">Spatial Thinking in Planning Practice: An
-Introduction to GIS</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(10).pdf" style="text-decoration:none;">Intel Xeon Phi Coprocessor Architecture and Tools </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(11).pdf" style="text-decoration:none;">R Notes for Professionals</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(12).pdf" style="text-decoration:none;">The Essence of Software Engineering</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(13).pdf" style="text-decoration:none;">STRATEGIC RESEARCH AGENDA FOR
+MULTILINGUAL EUROPE 2020</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(14).pdf" style="text-decoration:none;">Deleting Dystopia: Re-Asserting Human
-Priorities in the Age of Surveillance Capitalism</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(14).pdf" style="text-decoration:none;">Automated Machine Learning: Methods, Systems, Challenges</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(15).pdf" style="text-decoration:none;">Operating Systems and Middleware:
-Supporting Controlled Interaction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(15).pdf" style="text-decoration:none;">Python Notes for Professionals</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(16).pdf" style="text-decoration:none;">Deep into Pharo</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(16).pdf" style="text-decoration:none;">Learn BlackBerry 10 App Development: 
+A Cascades-Driven Approach</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(17).pdf" style="text-decoration:none;">An Introduction to Computer Networks</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(17).pdf" style="text-decoration:none;">Re-engineering the Uptake of ICT in Schools</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(18).pdf" style="text-decoration:none;">Introduction to Programming Using Java</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(18).pdf" style="text-decoration:none;">C# Notes for Professionals</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(19).pdf" style="text-decoration:none;">First Semester in Numerical Analysis with Python</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(19).pdf" style="text-decoration:none;">Embedded Firmware Solutions: 
+Development Best Practices for the Internet of Things</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(20).pdf" style="text-decoration:none;">Graphic Design and Print Production Fundamentals</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(20).pdf" style="text-decoration:none;">Exploring Python</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(21).pdf" style="text-decoration:none;">A Tale of Two Systems</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(22).pdf" style="text-decoration:none;">Think Complexity</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(23).pdf" style="text-decoration:none;">Information Systems for Business and Beyond</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(21).pdf" style="text-decoration:none;">The Future
+of Software Quality Assurance</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(22).pdf" style="text-decoration:none;">Market Engineering: Insights from Two Decades of Research on Markets and Information</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(23).pdf" style="text-decoration:none;">GUI Design for Android Apps</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(24).pdf" style="text-decoration:none;">An Introduction to
-Matlab and Mathcad</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(24).pdf" style="text-decoration:none;">CRACKING CODES WITH PYTHON: 
+An Introduction to Building and Breaking Ciphers</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(25).pdf" style="text-decoration:none;">Java, Java, Java
-Object-Oriented Problem Solving</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(26).pdf" style="text-decoration:none;">Blueprints: Creating, Describing, and Implementing Designs for Larger-scale Software Projects</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(27).pdf" style="text-decoration:none;">Introduction to Computer Graphics</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(25).pdf" style="text-decoration:none;">New Horizons for a
+Data-Driven Economy: A Roadmap for Usage and Exploitation of Big Data in Europe</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(26).pdf" style="text-decoration:none;">Agile Processes
+in Software Engineering and Extreme Programming – Workshops: XP 2019 Workshops Montréal, QC, Canada, May 21–25, 2019 Proceedings</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(27).pdf" style="text-decoration:none;">A Practical Guide to TPM 2.0
+Using the New Trusted Platform Module in the New Age of Security</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(28).pdf" style="text-decoration:none;">Introduction To MIPS Assembly Language
-Programming</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(28).pdf" style="text-decoration:none;">Rethinking Productivity in
+Software Engineering</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(29).pdf" style="text-decoration:none;">Delftse Foundations of Computation </a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(29).pdf" style="text-decoration:none;">S-BPM in the Production
+Industry: A Stakeholder Approach </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(30).pdf" style="text-decoration:none;">Defend Dissent: Digital Suppression and Cryptographic Defense of Social Movements</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(30).pdf" style="text-decoration:none;">C++ Notes for Professionals</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(31).pdf" style="text-decoration:none;">How To Code in Python 3</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(32).pdf" style="text-decoration:none;">A First Course in Electrical
-and Computer Engineering</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(31).pdf" style="text-decoration:none;">Interdisciplinary
+Insights for Digital Touch Communication</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(32).pdf" style="text-decoration:none;">Intel Trusted Execution Technology for Server Platforms: A Guide to More Secure Datacenters</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(33).pdf" style="text-decoration:none;">Digital Circuit Projects: An Overview of Digital Circuits Through Implementing Integrated Circuits</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(33).pdf" style="text-decoration:none;">Python Programming in OpenGL: 
+A Graphical Approach to Programming</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(34).pdf" style="text-decoration:none;">The Missing Link: 
-An Introduction to Web Development and Programming</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(34).pdf" style="text-decoration:none;">Clinical Text Mining: Secondary Use of Electronic Patient Records</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(35).pdf" style="text-decoration:none;">Making Games
-with Python and Pygame</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(35).pdf" style="text-decoration:none;">Ernst Denert Award
+for Software Engineering 2019</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(36).pdf" style="text-decoration:none;">The Civilization
-of Illiteracy</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(36).pdf" style="text-decoration:none;"> Handbook on
+Craniofacial Superimposition: The MEPROCS Project</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(37).pdf" style="text-decoration:none;">The Joy of Cryptography</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(38).pdf" style="text-decoration:none;">Think DSP: Digital Signal Processing in Python</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(39).pdf" style="text-decoration:none;">A Byte of Python</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(40).pdf" style="text-decoration:none;">Relational Databases
-and Microsoft Access</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(41).pdf" style="text-decoration:none;">Squeak by Example</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(42).pdf" style="text-decoration:none;">Algorithms and Data Structures
-With Applications to Graphics and Geometry</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(37).pdf" style="text-decoration:none;">Evaluating Information
+Retrieval and Access Tasks: NTCIR's Legacy of Research Impact</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(38).pdf" style="text-decoration:none;">Learn Python the right way: 
+How to think like a computer scientist</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(39).pdf" style="text-decoration:none;">Cyber-Physical Systems:
+A Model-Based Approach</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(40).pdf" style="text-decoration:none;">Anti-fragile ICT Systems</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(41).pdf" style="text-decoration:none;">Platform Embedded Security Technology Revealed</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(42).pdf" style="text-decoration:none;">JavaScript Notes for Professionals</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(43).pdf" style="text-decoration:none;">The Silicon Jungle</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(44).pdf" style="text-decoration:none;">Professional Web Accessibility Auditing Made Easy</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(45).pdf" style="text-decoration:none;">Web Accessibility for Developers</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(43).pdf" style="text-decoration:none;">Finance 4.0 — Towards
+a Socio-Ecological Finance System: A Participatory Framework to Promote Sustainability</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(44).pdf" style="text-decoration:none;">Telecommunication Economics: Selected Results of the COST Action IS0605 Econ@Tel</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(45).pdf" style="text-decoration:none;">Security of Ubiquitous
+Computing Systems: Selected Topics</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(46).pdf" style="text-decoration:none;">High Performance Computing</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(46).pdf" style="text-decoration:none;">PHP Notes for Professionals</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(47).pdf" style="text-decoration:none;">Invent Your Own
-Computer Games with Python</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(48).pdf" style="text-decoration:none;">Underground —
-Hacking, madness and obsession on the electronic frontier</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(47).pdf" style="text-decoration:none;">CSS Notes for Professionals</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(48).pdf" style="text-decoration:none;">Building Better Interfaces for Remote
+Autonomous Systems: An Introduction for Systems Engineers</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(49).pdf" style="text-decoration:none;">Object-Oriented
-Reengineering Patterns</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(49).pdf" style="text-decoration:none;">From Opinion Mining
+to Financial Argument Mining</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(50).pdf" style="text-decoration:none;">MIPS
-Assembly Language Programming using QtSpim</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(50).pdf" style="text-decoration:none;">Managing Risk and Information Security: 
+Protect to Enable</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(51).pdf" style="text-decoration:none;">x86-64 Assembly Language Programming
 with Ubuntu</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/n(52).pdf" style="text-decoration:none;">Think Bayes: 
