@@ -1657,8 +1657,7 @@ Programming</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/y(92).pdf" style="text-decoration:none;">Building Blocks
 for Theoretical Computer Science (Version 1.3)</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/y(93).pdf" style="text-decoration:none;"> Hitchhiker's Guide to the
-Internet</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/y(93).pdf" style="text-decoration:none;"> Evidence-Based Health Informatics</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/y(94).pdf" style="text-decoration:none;">SEMANTICS WITH APPLICATIONS: 
 A Formal Introduction</a></li> 
   
