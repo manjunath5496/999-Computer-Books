@@ -1674,5 +1674,77 @@ A Formal Introduction</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/y(99).pdf" style="text-decoration:none;">Linux Standard Base Languages Specification</a></li>  
   
 <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/y(100).pdf" style="text-decoration:none;">Competitive Programmer's Handbook</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/p(1).pdf" style="text-decoration:none;">Intelligent Environments 2021: Workshop Proceedings of the 17th International Conference on Intelligent Environments</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/p(2).pdf" style="text-decoration:none;">Novelties in Intelligent Digital
+Systems: Proceedings of the 1st International Conference (NIDS 2021), Athens, Greece, September 30 – October 1, 2021</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/p(3).pdf" style="text-decoration:none;">Artificial Intelligence Research and
+Development: Proceedings of the 23rd International Conference of the Catalan Association for Artificial Intelligence</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/p(4).pdf" style="text-decoration:none;">Human Language Technologies – The Baltic Perspective: Proceedings of the Ninth International Conference Baltic HLT 2020</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/p(5).pdf" style="text-decoration:none;">Workshop Proceedings of the 9th International Conference on Intelligent Environments</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/p(6).pdf" style="text-decoration:none;">Fuzzy Systems and Data Mining VII: 
+Proceedings of FSDM 2021</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/p(7).pdf" style="text-decoration:none;">Computational Models of Argument: Proceedings of COMMA 2020</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/p(8).pdf" style="text-decoration:none;"> Workshop Proceedings of the 8th International Conference on Intelligent Environments </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/p(9).pdf" style="text-decoration:none;">Modern Management based on Big
+Data I: Proceedings of MMBD 2020</a></li>
   
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/p(10).pdf" style="text-decoration:none;">Formal Ontology in Information
+Systems: Proceedings of the 11th International Conference (FOIS 2020)</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/p(11).pdf" style="text-decoration:none;">Legal Knowledge and Information
+Systems - JURIX 2020: The Thirty-third Annual Conference, Brno, Czech Republic, December 9–11, 2020</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/p(12).pdf" style="text-decoration:none;">Legal Knowledge and Information
+Systems - JURIX 2021: The Thirty-fourth Annual Conference, Vilnius, Lithuania, 8–10 December 2021</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/p(13).pdf" style="text-decoration:none;">Music Learning with Massive Open Online Courses (MOOCs)</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/p(14).pdf" style="text-decoration:none;">Formal Ontology in Information
+Systems: Proceedings of the Twelfth International Conference (FOIS 2021)</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/p(15).pdf" style="text-decoration:none;">Intelligent Environments 2017: Workshop Proceedings of the 13th International Conference on Intelligent Environments</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/p(16).pdf" style="text-decoration:none;">Legal Knowledge and Information
+Systems - JURIX 2019: The Thirty-second Annual Conference</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/p(17).pdf" style="text-decoration:none;">Proceedings of the Singapore
+Cyber-Security Conference (SG-CRC) 2016: Cyber-Security by Design</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/p(18).pdf" style="text-decoration:none;">A Systems Approach to Cyber
+Security: Proceedings of the 2nd Singapore Cyber-Security R&D Conference (SG-CRC 2017)</a></li> 
+
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/p(19).pdf" style="text-decoration:none;">APPLICATIONS OF SECURE MULTIPARTY
+COMPUTATION</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/p(20).pdf" style="text-decoration:none;">Smart Intelligent Computing and
+Communication Technology</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/p(21).pdf" style="text-decoration:none;">Parallel Computing: Technology
+Trends</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/p(22).pdf" style="text-decoration:none;">Intelligent Environments 2018: Workshop Proceedings of the 14th International Conference on Intelligent Environments</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/p(23).pdf" style="text-decoration:none;">Machine Learning and Artificial
+Intelligence: Proceedings of MLIS 2020</a></li> 
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/p(24).pdf" style="text-decoration:none;">Intelligent Environments 2020: 
+Workshop Proceedings of the 16th International Conference on Intelligent Environments</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/p(25).pdf" style="text-decoration:none;">Information Modelling and
+Knowledge Bases XXXII</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/p(26).pdf" style="text-decoration:none;">Advances in Parallel Computing
+Technologies and Applications</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/p(27).pdf" style="text-decoration:none;">Fuzzy Systems and Data Mining VI:
+Proceedings of FSDM 2020</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/p(28).pdf" style="text-decoration:none;">Modern Management based on Big
+Data II and Machine Learning and Intelligent Systems III: Proceedings of MMBD 2021 and MLIS 2021</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/p(29).pdf" style="text-decoration:none;">Proceedings of CECNet 2021: The 11th International Conference on Electronics, Communications and Networks (CECNet), November 18–21, 2021 </a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/p(30).pdf" style="text-decoration:none;">Recent Trends in Intensive
+Computing</a></li>
+ 
  </ul>
