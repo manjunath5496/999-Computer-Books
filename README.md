@@ -1746,5 +1746,6 @@ Data II and Machine Learning and Intelligent Systems III: Proceedings of MMBD 20
 
   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/p(30).pdf" style="text-decoration:none;">Recent Trends in Intensive
 Computing</a></li>
+  
  
  </ul>
