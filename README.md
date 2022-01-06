@@ -227,7 +227,7 @@ Internet</a></li>
   
 <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(101).pdf" style="text-decoration:none;">Computer Skills for Theology and Ministry</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(102).pdf" style="text-decoration:none;">Debian GNU/Linux: Guide to Installation and Usage</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(102).pdf" style="text-decoration:none;">Linux Standard Base Trial Use Specification</a></li> 
   
    
  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/c(103).pdf" style="text-decoration:none;">The Complete FreeBSD </a></li> 
