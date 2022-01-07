@@ -1932,7 +1932,26 @@ Processing III</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(72).pdf" style="text-decoration:none;">Sensors, Signal and Image Processing
 in Biomedicine and Assisted Living</a></li>  
   
+    <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(73).pdf" style="text-decoration:none;">Advanced Computational Intelligence
+for Object Detection, Feature Extraction and Recognition in Smart Sensor Environments</a></li> 
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(74).pdf" style="text-decoration:none;">Future Advances in Basin Modeling</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(75).pdf" style="text-decoration:none;">Radar and Sonar Imaging
+and Processing</a></li> 
+ 
   
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(76).pdf" style="text-decoration:none;">Remote Sensed Data and
+Processing Methodologies for 3D Virtual Reconstruction and Visualization of Complex Architectures</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(77).pdf" style="text-decoration:none;">Holography, 3D Imaging and
+3D Display</a></li> 
+  
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(78).pdf" style="text-decoration:none;">Image and Video Processing and
+Recognition Based on Artificial Intelligence</a></li>
+ 
+ 
   
   
  </ul>
