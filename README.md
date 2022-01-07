@@ -1795,7 +1795,7 @@ Learning</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(19).pdf" style="text-decoration:none;">Statistical Data Modeling and
 Machine Learning with Applications</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(20).pdf" style="text-decoration:none;">Graphic Design and Print Production Fundamentals</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(20).pdf" style="text-decoration:none;">Java Structures</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(21).pdf" style="text-decoration:none;">Sound and Music Computing</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(22).pdf" style="text-decoration:none;">Teaching and Learning Advances on
@@ -1897,5 +1897,10 @@ Models for Applications in Vehicles, Machines, Robots and Humans</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(61).pdf" style="text-decoration:none;">Sensor Technology for Smart Homes</a></li> 
   
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(62).pdf" style="text-decoration:none;">Data Structures and Algorithm
+Analysis Edition 3.2 (Java Version) </a></li>
  
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(63).pdf" style="text-decoration:none;">Data Structures and Algorithm
+Analysis Edition 3.2 (C++ Version)</a></li> 
+  
  </ul>
