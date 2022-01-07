@@ -1903,4 +1903,36 @@ Analysis Edition 3.2 (Java Version) </a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(63).pdf" style="text-decoration:none;">Data Structures and Algorithm
 Analysis Edition 3.2 (C++ Version)</a></li> 
   
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(64).pdf" style="text-decoration:none;">3D Printing of Pharmaceuticals and
+Drug Delivery Devices</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(65).pdf" style="text-decoration:none;">Applied Sciences to the Study of
+Technical Historical Heritage and/or Industrial Heritage </a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(66).pdf" style="text-decoration:none;">Architecture and Engineering: The
+Challenges—Trends—Achievements</a></li> 
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(67).pdf" style="text-decoration:none;">Deep Learning in Medical
+Image Analysis</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(68).pdf" style="text-decoration:none;">Emerging Sensor Technology
+in Agriculture</a></li> 
+ 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(69).pdf" style="text-decoration:none;">Indoor Positioning
+and Navigation</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(70).pdf" style="text-decoration:none;">Novel Industry
+4.0 Technologies and Applications</a></li> 
+  
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(71).rar" style="text-decoration:none;">Sensor Signal and Information
+Processing III</a></li>
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(72).pdf" style="text-decoration:none;">Sensors, Signal and Image Processing
+in Biomedicine and Assisted Living</a></li>  
+  
+  
+  
+  
  </ul>
