@@ -1746,6 +1746,156 @@ Data II and Machine Learning and Intelligent Systems III: Proceedings of MMBD 20
 
   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/p(30).pdf" style="text-decoration:none;">Recent Trends in Intensive
 Computing</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(1).pdf" style="text-decoration:none;">Molecular Dynamics Simulation</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(2).pdf" style="text-decoration:none;">Optimization Methods Applied to
+Power Systems II</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(3).pdf" style="text-decoration:none;">Entropy in Image
+Analysis II</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(4).pdf" style="text-decoration:none;">Progress in Group Field Theory and
+Related Quantum Gravity Formalisms</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(5).pdf" style="text-decoration:none;">Algorithms in Decision Support
+Systems</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(6).pdf" style="text-decoration:none;">Applications of Computer Vision in
+Automation and Robotics</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(7).pdf" style="text-decoration:none;">Green Technologies: Bridging Conventional
+Practices and Industry 4.0</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(8).pdf" style="text-decoration:none;"> Bioinformatics Applications Based On
+Machine Learning </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(9).pdf" style="text-decoration:none;">Research as Development Perspective</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(10).pdf" style="text-decoration:none;">Advanced Computational Methods for
+Oncological Image Analysis</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(11).pdf" style="text-decoration:none;">Recent Advances in Indoor
+Localization Systems and Technologies</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(12).pdf" style="text-decoration:none;">Gamification and Advanced
+Technology to Enhance Motivation in Education</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(13).pdf" style="text-decoration:none;">Computer Science and Engineering
+Education for Pre-Collegiate Students and Teachers</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(14).pdf" style="text-decoration:none;">Advanced Techniques in the Analysis
+and Prediction of Students’ Behaviour in Technology-Enhanced Learning Contexts</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(15).pdf" style="text-decoration:none;">Ubiquitous Technologies for Emotion
+Recognition</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(16).pdf" style="text-decoration:none;">Innovative Topologies and Algorithms
+for Neural Networks</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(17).pdf" style="text-decoration:none;">Systems Education for a
+Sustainable Planet</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(18).pdf" style="text-decoration:none;">Current Trends in Game-Based
+Learning</a></li> 
+
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(19).pdf" style="text-decoration:none;">Statistical Data Modeling and
+Machine Learning with Applications</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(20).pdf" style="text-decoration:none;">Graphic Design and Print Production Fundamentals</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(21).pdf" style="text-decoration:none;">Sound and Music Computing</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(22).pdf" style="text-decoration:none;">Teaching and Learning Advances on
+Sensors for IoT</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(23).pdf" style="text-decoration:none;">Design Space Exploration and
+Resource Management of Multi/Many-Core Systems</a></li> 
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(24).pdf" style="text-decoration:none;">Cyber Security
+of Critical Infrastructures</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(25).pdf" style="text-decoration:none;">Applied Artificial
+Neural Networks</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(26).pdf" style="text-decoration:none;">Discrete Multiphysics
+Modelling Complex Systems with Particle Methods</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(27).pdf" style="text-decoration:none;">Open-Source Electronics
+Platforms: Development and Applications</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(28).pdf" style="text-decoration:none;">Knowledge Management, Trust and
+Communication in the Era of Social Media</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(29).pdf" style="text-decoration:none;">Fine Art Pattern
+Extraction and Recognition </a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(30).pdf" style="text-decoration:none;">Road Vehicles Surroundings
+Supervision: On-Board Sensors and Communications</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(31).pdf" style="text-decoration:none;">Information Theory for Data
+Communications and Processing</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(32).pdf" style="text-decoration:none;">Real-Time Embedded
+Systems</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(33).pdf" style="text-decoration:none;">Nonlinear
+Functional Analysis and Its Applications</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(34).pdf" style="text-decoration:none;">The Challenges of the Humanities,
+Past, Present, and Future Vol. 1</a></li> 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(35).pdf" style="text-decoration:none;">AI AND THE SINGULARITY: A FALLACY OR A GREAT OPPORTUNITY</a></li> 
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(36).pdf" style="text-decoration:none;">Audio Signal
+Processing</a></li> 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(37).pdf" style="text-decoration:none;">Sustainable Construction Engineering and
+Management</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(38).pdf" style="text-decoration:none;">Visual and
+Camera Sensors</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(39).pdf" style="text-decoration:none;">Mechanism Design
+for Robotics</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(40).pdf" style="text-decoration:none;">The Science and Technology
+of 3D Printing</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(41).pdf" style="text-decoration:none;">Artificial Intelligence
+Applications to Smart City and Smart Enterprise</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(42).pdf" style="text-decoration:none;">Multi-Agent Systems</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(43).pdf" style="text-decoration:none;">Deep Learning Applications with
+Practical Measured Results in Electronics Industries</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(44).pdf" style="text-decoration:none;">Advances in Molecular Simulation</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(45).pdf" style="text-decoration:none;">Applied Mathematics and
+Computational Physics</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(46).pdf" style="text-decoration:none;">Digital Twins in Industry</a></li> 
+                             
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(47).pdf" style="text-decoration:none;">Sensors for Fluid Leak
+Detection</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(48).pdf" style="text-decoration:none;">Mathematical
+Modelling Biomedicine</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(49).pdf" style="text-decoration:none;">Low-Cost Sensors
+and Biological Signals</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(50).pdf" style="text-decoration:none;">Assistance
+Robotics and Biosensors</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(51).pdf" style="text-decoration:none;">Biosensors with Magnetic
+Nanocomponents</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(52).pdf" style="text-decoration:none;">Sensing and Signal Processing in
+Smart Healthcare</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(53).pdf" style="text-decoration:none;">Modelling and Simulation of
+Human-Environment Interactions</a></li>
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(54).pdf" style="text-decoration:none;">Measurement Methods in the
+Operation of Ships and Offshore Facilities </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(55).pdf" style="text-decoration:none;">Remote Sensing in Vessel Detection and Navigation</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(56).pdf" style="text-decoration:none;">Color Image Processing </a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(57).pdf" style="text-decoration:none;">Advanced Intelligent Control through
+Versatile Intelligent Portable Platforms</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(58).pdf" style="text-decoration:none;">UAV or Drones for Remote Sensing
+Applications in GPS/GNSS Enabled and GPS/GNSS Denied Environments</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(59).pdf" style="text-decoration:none;">Combining Sensors and Multibody
+Models for Applications in Vehicles, Machines, Robots and Humans</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(60).pdf" style="text-decoration:none;">Raspberry Pi Technology </a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(61).pdf" style="text-decoration:none;">Sensor Technology for Smart Homes</a></li> 
   
  
  </ul>
