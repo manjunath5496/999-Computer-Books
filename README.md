@@ -1925,17 +1925,16 @@ and Navigation</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(70).pdf" style="text-decoration:none;">Novel Industry
 4.0 Technologies and Applications</a></li> 
   
- 
  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(71).rar" style="text-decoration:none;">Sensor Signal and Information
 Processing III</a></li>
  
  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(72).pdf" style="text-decoration:none;">Sensors, Signal and Image Processing
 in Biomedicine and Assisted Living</a></li>  
   
-    <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(73).pdf" style="text-decoration:none;">Advanced Computational Intelligence
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(73).pdf" style="text-decoration:none;">Advanced Computational Intelligence
 for Object Detection, Feature Extraction and Recognition in Smart Sensor Environments</a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(74).pdf" style="text-decoration:none;">Future Advances in Basin Modeling</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(74).pdf" style="text-decoration:none;">Future Advances in Basin Modeling</a></li>                              
 
   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/h(75).pdf" style="text-decoration:none;">Radar and Sonar Imaging
 and Processing</a></li> 
