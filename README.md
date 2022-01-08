@@ -2179,5 +2179,32 @@ SECONDARY LEVEL</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/o(100).pdf" style="text-decoration:none;">HANDBOOK OF COMPUTATIONAL SOCIAL
 SCIENCE, VOLUME 1: Theory, Case Studies and Ethics</a></li>  
    
+                       
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/j(1).PDF" style="text-decoration:none;">MODELS OF REFERENCE</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/j(2).pdf" style="text-decoration:none;">Annals of Scientific
+Society for Assembly, Handling and Industrial Robotics</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/j(3).pdf" style="text-decoration:none;">Window Functions and Their Rpplications in Signal Processing</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/j(4).pdf" style="text-decoration:none;">Engaging Researchers with Data Management: The Cookbook</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/j(5).PDF" style="text-decoration:none;">50 YEARS AFTER THE PERCEPTRON, 25 YEARS AFTER PDP: NEURAL COMPUTATION IN LANGUAGE SCIENCES</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/j(6).pdf" style="text-decoration:none;">Methods in Computational Biology</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/j(7).pdf" style="text-decoration:none;">High Performance Propagation of Large
+Object Populations in Earth Orbits</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/j(8).pdf" style="text-decoration:none;"> The Multi-Agent Transport Simulation
+MATSim </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/j(9).PDF" style="text-decoration:none;">MODELING OF VISUAL COGNITION, BODY SENSE, MOTOR CONTROL AND THEIR INTEGRATIONS</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/j(10).PDF" style="text-decoration:none;">COGNITION AND INTERACTION: FROM
+COMPUTERS TO SMART OBJECTS AND AUTONOMOUS AGENTS </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/j(11).PDF" style="text-decoration:none;">AI AND FINANCIAL TECHNOLOGY</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/j(12).pdf" style="text-decoration:none;">Gender Differences in Computer and Information Literacy: An In-depth Analysis of Data from ICILS</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/j(13).pdf" style="text-decoration:none;">Environments of Intelligence: From natural information to artificial interaction</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/j(14).pdf" style="text-decoration:none;">MAKING AI INTELLIGIBLE: Philosophical Foundations</a></li>  
+  
   
  </ul>
