@@ -2246,7 +2246,17 @@ for Visual Tracking </a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/j(31).pdf" style="text-decoration:none;">Machine Learning, Low-Rank Approximations and Reduced Order Modeling in Computational Mechanics</a></li> 
    
   
-  
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/j(32).pdf" style="text-decoration:none;">Advances in Computer Simulation
+Studies on Crystal Growth</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/j(33).pdf" style="text-decoration:none;">Urban Informatics</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/j(34).pdf" style="text-decoration:none;">ADVANCED HPC-BASED
+COMPUTATIONAL MODELING IN BIOMECHANICS AND SYSTEMS BIOLOGY</a></li> 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/j(35).pdf" style="text-decoration:none;">RECENT ADVANCES IN UNDERSTANDING
+THE BASIC MECHANISMS OF ATRIAL FIBRILLATION USING NOVEL COMPUTATIONAL APPROACHES</a></li> 
+
   
   
   
