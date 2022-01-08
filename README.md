@@ -1061,8 +1061,8 @@ and Information Sciences: First International ISCIS Security Workshop 2018 Euro-
   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(82).pdf" style="text-decoration:none;">Agile Processes
 in Software Engineering and Extreme Programming – Workshops: XP 2020 Workshops Copenhagen, Denmark, June 8–12, 2020 Revised Selected Papers</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(83).pdf" style="text-decoration:none;">Demystifying
-Internet of Things Security</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(83).pdf" style="text-decoration:none;">Cultures of Computer Game Concerns:
+The Child Across Families, Law, Science and Industry</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(84).pdf" style="text-decoration:none;">Cyber Security: 15th International Annual Conference, CNCERT 2018 Beijing, China, August 14–16, 2018 Revised Selected Papers</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/m(85).pdf" style="text-decoration:none;">Programming
