@@ -2206,5 +2206,48 @@ COMPUTERS TO SMART OBJECTS AND AUTONOMOUS AGENTS </a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/j(14).pdf" style="text-decoration:none;">MAKING AI INTELLIGIBLE: Philosophical Foundations</a></li>  
   
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/j(15).pdf" style="text-decoration:none;">Current Trends in Computer Science and Mechanical Automation: Selected Papers from CSMA2016 - Volume 2</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/j(16).pdf" style="text-decoration:none;">Nanoscale Photonic Imaging</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/j(17).pdf" style="text-decoration:none;">Dependable Embedded Systems</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/j(18).pdf" style="text-decoration:none;">Manual of Digital Earth</a></li> 
+
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/j(19).pdf" style="text-decoration:none;">DOCUMENTARY MAKING FOR DIGITAL HUMANISTS</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/j(20).pdf" style="text-decoration:none;">NEURAL AND COMPUTATIONAL
+MODELING OF MOVEMENT CONTROL</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/j(21).pdf" style="text-decoration:none;">THE UNCANNY VALLEY HYPOTHESIS AND BEYOND</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/j(22).pdf" style="text-decoration:none;">CHALLENGES IN COMPUTATIONAL
+ENZYMOLOGY</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/j(23).pdf" style="text-decoration:none;">STATISTICAL AND COMPUTATIONAL METHODS
+FOR MICROBIOME MULTI-OMICS DATA</a></li> 
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/j(24).pdf" style="text-decoration:none;">Digital Classical Philology: Ancient Greek and Latin in the Digital Revolution</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/j(25).pdf" style="text-decoration:none;">Advances in Experimental and Computational Rheology, Volume II</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/j(26).pdf" style="text-decoration:none;">Big Data Computing for Geospatial
+Applications</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/j(27).pdf" style="text-decoration:none;">Cognitive Aspects of Human-Computer Interaction for GIS</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/j(28).pdf" style="text-decoration:none;">Computational Methods for the
+Analysis of Genomic Data and Biological Processes</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/j(29).pdf" style="text-decoration:none;">Dynamic Switching State Systems
+for Visual Tracking </a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/j(30).pdf" style="text-decoration:none;">EG-ICE 2021 Workshop on Intelligent Computing in Engineering</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-Computer-Books/blob/master/j(31).pdf" style="text-decoration:none;">Machine Learning, Low-Rank Approximations and Reduced Order Modeling in Computational Mechanics</a></li> 
+   
+  
+  
+  
+  
   
  </ul>
